@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="স্বাস্থ্য এবং মানসিক চাপ "
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="21dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ১. যা আছে তা নিয়েই সন্তুষ্ট থাকা: \n\nঅসন্তুষ্টি থেকে অনেক সমস্যা তৈরি হয়। তাই সফল ব্যক্তিরা এ থেকে দূরে থাকেন। তারা নিজের যা আছে তাই নিয়ে সন্তুষ্ট থাকেন। এটি কর্টিসল নামে স্ট্রেস হরমোনের মাত্রা কমিয়ে রাখে। ফলে মানসিক চাপও কমে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/stress"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ২. ‘যদি’ বাদ দেওয়া:\n\n
+‘যদি বিষয়টা এমন হতো, তাহলে কেমন হতো.....’ ধরনের প্রশ্ন কোনো সমাধান আনে না। বাস্তবতাকে মেনে নিতে সমস্যা করে এমন প্রশ্ন।তাই এ ধরনের প্রশ্ন সফলরা এড়িয়ে চলেন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/stress2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৩. ইতিবাচক থাকা:\n\n
+ইতিবাচকতা মস্তিষ্কের জন্য অত্যন্ত গুরুত্বপূর্ণ। এটি মানসিক চাপমুক্ত রাখে এবং সফল হতে সহায়তা করে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/stress3"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView2" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৪. মানসিক চাপের ক্ষেত্রে ‘বিচ্ছিন্নতা’\n\n
+কোনো পর্যায়ে মানসিক চাপের সৃষ্টি হওয়ার মতো পরিস্থিতি তৈরি হতেই পারে। এমন পরিস্থিতিতে সফল ব্যক্তিরা ‘বিচ্ছিন্নতা’ তৈরি করেন। ফলে মানসিক চাপের অনেক বিষয় তাদের স্পর্শ করতে পারে না।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/stress4"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView3" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৫. ক্যাফেইন গ্রহণ নিয়ন্ত্র:ণ\n\n
+চা কিংবা কফির মতো পানীয়তে থাকা ক্যাফেইন মানসিক চাপ অনেকখানি বাড়িয়ে দেয়। এ পানীয় নিয়ন্ত্রণ করলে তা মানসিক চাপ থেকে মুক্তি পেতে সহায়তা করে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/stress5"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView4" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৬. পর্যাপ্ত ঘুম:\n\n
+ঘুম মানসিক স্বস্তি দেয় এবং চিন্তাভাবনা পরিষ্কার করে। পর্যাপ্ত ঘুমালে মানসিক চাপ কমার পাশাপাশি ঠাণ্ডা মাথায় বড় কোনো সমস্যার সমাধান করাও সহজ হয়।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/stress6"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView5" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৭. নেতিবাচক আত্মকথন বাদ:\n\n
+নেতিবাচক চিন্তাভাবনা থেকে তৈরি হতে পারে নেতিবাচক আত্মকথন। এতে মানসিক চাপ আগের তুলনায় আরও বেড়ে যেতে পারে। আর এ সমস্যা দূর করার জন্য সফল ব্যক্তিরা নেতিবাচক আত্মকথন বাদ দেন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/stress7"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView6" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৮. স্পষ্ট দৃষ্টিভঙ্গি:\n\n
+কি কারণে মানসিক চাপ সৃষ্টি হয়েছে সে বিষয়ে স্পষ্টভাবে চিন্তাভাবনা করা অনেক সময় চাপ কমাতে সহায়তা করে। এ কাজটি সফল ব্যক্তিরা অহরহ করে থাকেন মানসিক চাপ উপশম করতে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/stress8"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView7" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৯. বড় করে শ্বাস নেওয়া:
+\n\nসঠিক উপায়ে বড় করে শ্বাস নিয়ে মানসিক চাপ কমানো যায়। এ অনুশীলন করে অনেকেই মানসিক চাপ কমাতে সক্ষম হন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/stress9"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView8" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ১০. নিজস্ব ব্যবস্থা:\n\n
+মানসিক চাপ ব্যক্তিভেদে ভিন্ন কারণে হতে পারে। আর এ চাপ কমানোর জন্য বিষয়টি বিশ্লেষণের প্রয়োজন রয়েছে। নিজের কোনো দুর্বলতার কারণে মানসিক চাপ সৃষ্টি হলে সে বিষয়ে বিশদ পর্যালোচনার মাধ্যমে সমাধান পাওয়া সম্ভব। কোনো সমস্যার কারণে এমনটা হলে সে সমস্যার মূলোৎপাটন হতে পারে ভালো একটি সমাধান।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/stress10"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+    </LinearLayout>
+    </ScrollView>

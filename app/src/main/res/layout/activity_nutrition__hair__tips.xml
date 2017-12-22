@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="চুলের জন্য পুষ্টি টিপস"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="21dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ১. হট অয়েল ট্রিটমেন্ট\n\n কোকোনাট অয়েল, অলিভ অয়েল ও আলমন্ড অয়েল একসাথে বা আলাদা ভাবে অথবা যুগ্মভাবে মিশিয়ে গরম করে নিন। ত্বকের জন্য সহনীয় উষ্ণতায় আসলে তা মাথার ত্বকে ও চুলে ভালো করে লাগান। এরপর একটি তোয়ালে গরম জলে ভিজিয়ে চুলকে বেঁধে ফেলুন। ২০ মিনিট থেকে ৩০ মিনিট এভাবে রাখার পর ভালো করে শ্যাম্পু করে ফেলুন। সপ্তাহে অন্তত একদিন ও সম্ভব হলে ২ থেকে ৩ দিন নিয়মিত এটি করলে চুলের স্বাস্থ্য ভালো হয়। চুল পড়া কমে, চুলের উজ্জ্বলতা বৃদ্ধি হয়, চুল মসৃণ হয়।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ২. পেঁয়াজ \n\n পেঁয়াজ চুলের সমস্যা সমাধানের জন্য অত্যন্ত কার্যকর। অনেকের চুল পড়ে মাথার সামনের অংশে কিছুটা টাকের মত হয়ে যায়। কচি পেঁয়াজের প্রান্ত কেটে পেঁয়াজ দিয়ে ওই অংশে ঘষে ৩০ মিনিট পর চুল ভালো করে শ্যাম্পু করে ফেলুন। নিয়মিত সপ্তাহে একদিন এরকম করলে সেই অংশে নতুন চুল গজিয়ে থাকে। চিন্তার কোন কারণ নেই পেঁয়াজের গন্ধ থাকেনা !"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৩. ডিমের হেয়ার প্যাক \n\n একটি ডিম, এক ফোঁটা অলিভ অয়েল ও দুই চামচ মধু একসাথে মিশিয়ে মাথার ত্বকে ভাল লাগান। লাগানোর সময় ভালো করে ম্যাসাজ করবেন। ২০ মিনিট পর চুল শ্যাম্পু করে ফেলুন। এটি চুলকে প্রয়োজনীয় পুষ্টি প্রদান করে, স্বাস্থ্যজ্জ্বল করে… যা চুল পড়া, ভাঙা প্রভৃতি সমস্যা থেকে মুক্তি দেয়।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple3"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView2" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৪. মেহেদী \n\n মেহেদী যে চুলের জন্য ভালো তা অনেকেরই জানা। মেহেদী ভালো করে মাথার ত্বকে লাগিয়ে ২০ মিনিট রেখে শ্যাম্পু করে ফেলুন। এটি চুলকে স্বাস্থ্যজ্জ্বল করে। যদিও সমগ্র প্রক্রিয়াটি একটু কষ্টকর কিন্তু ভালো করে দিতে পারলে তা চুলের জন্য অনেক উপকারী "
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple4"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView3" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৫. খুশকি অপসারণ\n\n খুশকি চুলের জন্য অত্যন্ত ক্ষতিকর। পূর্বোক্ত উপায় অবলম্বন করে খুশকি দূর করলে চুলের সমস্যা অনেকাংশে দূর হয়ে থাকে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple5"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView4" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৬.  কলার হেয়ার প্যাক\n\n একটি মাঝারি আকারের কলা ও ২ চামচ মধু ভালো করে মিশিয়ে পেস্ট বানিয়ে নিন। এরপর প্যাকটি মাথার ত্বকে ভালো করে লাগান। ২০ মিনিট থেকে ৩০ মিনিট রেখে ভালো করে শ্যাম্পূ করে ফেলুন। এটি চুলের আগা ভাঙা ও রুক্ষতা দূর করে থাকে। সপ্তাহে একদিন ব্যবহারে চুল হয়ে ওঠে সুন্দর ও স্বাস্থ্যজ্জ্বল।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple6"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView5" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৭. অ্যালোভেরা\n\n কয়েক টুকরা অ্যালোভেরা ও ২ থেকে ৩ চামচ মধু মিশিয়ে মাথার ত্বকে ম্যাসাজ করুন। ২০ মিনিট পর শ্যাম্পু করে ফেলুন। নিয়মিত (সপ্তাহে ১ দিন) ব্যবহারে এটি চুলকে পুষ্টি দান করে যা চুলের বৃদ্ধির জন্য সহায়ক।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple7"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView6" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৮. জলের তাপমাত্রা \n\n ঠান্ডা অথবা সামান্য গরম জল দিয়ে চুল ধুয়ে ফেলুন। কখনো অত্যন্ত গরম জল ব্যবহার করবেন না। উচ্চ তাপমাত্রা চুলের জন্য ক্ষতিকর।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple8"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView7" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৯. চুল বেঁধে রাখা \n\n চুল খোলা রাখলে সাধারণত জট বাঁধে এবং আঁচড়ানোর সময় চুল ভেঙে যায়। চুল বেঁধে রাখার চেষ্টা করুন এবং চুল খোলা রেখে ঘুমাবেন না। যাদের লম্বা চুল তারা বেণী করে ঘুমালে চুলে জট কম বাঁধবে ও চুল পড়ার হার অনেকখানি কমে যাবে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple9"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView8" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ১০. চুল পরিষ্কার\n\n  নিয়মিত চুল পরিষ্কার করুন। একদিন পর পর শ্যাম্পু করুন। নইলে চুলে ধুলাবালি, ময়লা জমে চুলকে অস্বাস্থ্যকর করে ফেলে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple10"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+</LinearLayout>
+</ScrollView>

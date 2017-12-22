@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.sohelrana.nutrition">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="স্বাস্থ্য ও পুষ্টি "
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Healthtips" />
+        <activity android:name=".Nutrition" />
+        <activity android:name=".Recipies" />
+        <activity android:name=".Remedies" />
+        <activity android:name=".Vitamins" />
+        <activity android:name=".Grains" />
+        <activity android:name=".Heart" />
+        <activity android:name=".Low" />
+        <activity android:name=".Protein" />
+        <activity android:name=".High" />
+        <activity android:name=".VitaminSource" />
+        <activity android:name=".Mineral" />
+        <activity android:name=".Health_General_Tips" />
+        <activity android:name=".Health_Women_Tips" />
+        <activity android:name=".Health_Men_Tips" />
+        <activity android:name=".Health_Simple_Tips" />
+        <activity android:name=".Health_Winter_Tips" />
+        <activity android:name=".Healthy_Excercises" />
+        <activity android:name=".Health_Diabetes_Patients_Tips" />
+        <activity android:name=".Health_Stress" />
+        <activity android:name=".Health_Summer_Tips" />
+        <activity android:name=".Nutrition_General_Tips" />
+        <activity android:name=".Nutrition_Children_Tips" />
+        <activity android:name=".Nutrition_Women_Tips" />
+        <activity android:name=".Nutrition_Men_Tips" />
+        <activity android:name=".Nutrition_Simple_Tips" />
+        <activity android:name=".Nutrition_Hair_Tips" />
+        <activity android:name=".Nutrition_Skin_Tips" />
+        <activity android:name=".Nutrion_Aneamic_Patients_Tips" />
+        <activity android:name=".Nutrition_Diabetes_Tips" />
+        <activity android:name=".Nutrition_Weight_Gain_Tips" />
+        <activity android:name=".Nutrition_High_Blood_Pressure_Tips" />
+        <activity android:name=".Vitamin_A" />
+        <activity android:name=".Vitamin_B" />
+        <activity android:name=".Vitamin_C" />
+        <activity android:name=".Vitamin_D" />
+        <activity android:name=".Vitamin_E" />
+        <activity android:name=".Vitamin_K" />
+        <activity android:name=".Mineral_Calcium" />
+        <activity android:name=".Mineral_Fiber" />
+        <activity android:name=".Mineral_Folic_Acid" />
+        <activity android:name=".Mineral_Iron" />
+        <activity android:name=".Mineral_Magnesium" />
+        <activity android:name=".Mineral_Phosphorus" />
+        <activity android:name=".Mineral_Potassium" />
+        <activity android:name=".Mineral_Zinc" />
+        <activity android:name=".Remedies_Acidity" />
+        <activity android:name=".Remedies_Cough_And_Cold" />
+        <activity android:name=".Remedies_Head_Ache" />
+        <activity android:name=".Remedies_Back_Pain" />
+        <activity android:name=".Remedies_Pimples_Cure" />
+        <activity android:name=".Remedies_Tooth_Ache" />
+        <activity android:name=".Remedies_Weight_Loss" />
+        <activity android:name=".Remedies_Dandruff" />
+        <activity android:name=".Remedies_Hair_Loss" />
+        <activity android:name=".Remedies_Skin_Rashes" />
+        <activity android:name=".Remedies_Mouth_Ulcer" />
+        <activity android:name=".Remedies_Running_Nose" />
+        <activity android:name=".Remedies_Asthma" />
+        <activity android:name=".Remedies_Sore_Throat" />
+        <activity android:name=".Recipes_Asparagus_Soup" />
+        <activity android:name=".Recipes_Cherry_salad" />
+        <activity android:name=".Recipes_Garlic_Chicken" />
+        <activity android:name=".Recipes_Ginger_Squash_Soup" />
+        <activity android:name=".Recipes_Orange_Sauced_Brocolli" />
+        <activity android:name=".Recipes_Salmon_With_Apple_Slaw" />
+        <activity android:name=".Recipes_Spicy_Garlic_Shirmp" />
+        <activity android:name=".Low_Banana_Blueberry_Smoothie" />
+        <activity android:name=".Low_Beef_Chow_Mein" />
+        <activity android:name=".Low_Broccoli_Bacon_Pilaf" />
+        <activity android:name=".Low_Chicken_Stir_Fry" />
+        <activity android:name=".Low_Chicken_And_Tomato_Salad" />
+        <activity android:name=".Low_Cottage_Pie" />
+        <activity android:name=".Low_Lentil_And_Ginger_Soup" />
+        <activity android:name=".Low_Muesli_Pancakes_With_Cinnamon_Apples" />
+        <activity android:name=".Protien_Dal_Kabila" />
+        <activity android:name=".Protein_Egg_Beans_Burrito" />
+        <activity android:name=".Protein_Gimmelean_Sausage_Burrito" />
+        <activity android:name=".Protein_Protein_Shake" />
+        <activity android:name=".Protein_Tofu_Scramble" />
+        <activity android:name=".Protein_Vegetable_Frittata" />
+        <activity android:name=".High_Berry_Peachy_Smoothy" />
+        <activity android:name=".High_Cheese_Macaroni" />
+        <activity android:name=".High_Mango_Lassi" />
+        <activity android:name=".High_Vanlla_Berry_Trifle" />
+        <activity android:name=".High_Prok_With_Romano_Cheese" />
+        <activity android:name=".High_Salmon_Choucroute" />
+        <activity android:name=".High_Tzatziki" />
+        <activity android:name=".Calculators" />
+    </application>
+
+</manifest>

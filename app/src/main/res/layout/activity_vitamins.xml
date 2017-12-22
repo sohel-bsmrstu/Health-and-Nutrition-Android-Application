@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="55dp"
+            android:text="ভিটামিন উৎস"
+            android:textSize="20dp"
+            android:id="@+id/button"
+            android:padding="5dp"
+            android:background="@drawable/sohel_button"
+            android:textColor="#6A1B9A"/>
+
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:id="@+id/textView" />
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="55dp"
+            android:text="খনিজ উৎস"
+            android:textSize="20dp"
+            android:textColor="#6A1B9A"
+            android:id="@+id/button2"
+            android:padding="5dp"
+            android:background="@drawable/sohel_button" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="2dp"
+            android:id="@+id/textView1" />
+
+
+</LinearLayout>
+</ScrollView>

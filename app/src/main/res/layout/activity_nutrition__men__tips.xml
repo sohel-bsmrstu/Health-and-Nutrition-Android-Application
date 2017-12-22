@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="পুরুষদের জন্য পুষ্টি টিপস"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="21dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ১ . কলা\n\n কলায় আছে ব্রোমেলাইন নামক এঞ্জাইম যা পুরুষের যৌন সক্ষমতা বৃদ্ধি করতে সহায়তা করে। এছাড়াও কলায় প্রচুর পরিমাণে পটাশিয়াম ও রিবোফ্লাবিন আছে যা শরীরিক শক্তি বৃদ্ধি করে ও শরীরকে সুস্থ রাখতে সহায়তা করে। একই সাথে বীর্যের মান উন্নত করতেও ভূমিকা রাখে কলা।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ২. ডিম\n\n ডিমে আছে ভিটামিন বি৫ ও বি ৬। এই উপাদানগুলো শরীরের হরমোন উৎপাদন প্রকৃয়াকে স্বাভাবিক রাখতে সহায়তা করে। এছাড়াও ডিমে প্রচুর পরিমাণে প্রোটিন আছে যা স্পার্ম-এর গুনগত মান বৃদ্ধি করতে সহায়তা করে ও শারীরিক সক্ষমতা বৃদ্ধি করে। প্রতিদিনের সকালের নাস্তায় একটি করে ডিম রাখুন। এতে আপনার শারীরিক সক্ষমতা বৃদ্ধি পাবে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৩. রসুন\n\n অনেকেই রসুনের গন্ধ পছন্দ করে না। কিন্তু রসুনে আছে অ্যালাকাইন যা যৌনাঙ্গে রক্ত সঞ্চালন বাড়িয়ে দেয়। ফলে শরীরিক উদ্দীপনা সৃষ্টি হয় ও সক্ষমতা বৃদ্ধি পায়।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple3"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView2" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৪. চকলেট\n\n চকলেটে ক্যাফেইন জাতীয় উপাদান থিওব্রোমাইন আছে। এছাড়াও এতে আছে ফিনাইলেথাইলামাইন যা মস্তিষ্কে ভালোবাসার অনুভূতি সৃষ্টি করে। বিশেষ করে ডার্ক চকোলেটে প্রচুর পরিমাণে অ্যান্টিঅক্সিডেন্ট থাকে যা শারীরিক সক্ষমতা বৃদ্ধি করে, বীর্যের মান উন্নত করে ও রোগ প্রতিরোধ ক্ষমতা বাড়ায়।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple4"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView3" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৫. বাদাম\n\n চিনা বাদাম, কাজু বাদাম, পেস্তা বাদাম ইত্যাদিতে শরীরের জন্য প্রয়োজনীয় মনোস্যাচুরেটেড ফ্যাট আছে। বাদাম শরীরে উপকারী কোলেস্টেরল তৈরী করতেও সহায়তা করে। সেক্স হরমোন গুলো ঠিক মতো কাজ করার জন্য এই কোলেস্টেরল অত্যন্ত প্রয়োজনীয়। তাই প্রতিদিন অল্প করে হলে বাদাম খেলে সন্তান উৎপাদনে সক্ষমতা বৃদ্ধি পায়।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple5"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView4" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৬. স্ট্রবেরী\n\nস্ট্রবেরী শরীরের রক্ত সঞ্চালন বৃদ্ধি করে। ফলে শারীরিক সক্ষমতা বৃদ্ধি পায় ও উদ্দীপনা বাড়ে। এছাড়াও স্ট্রবেরীতে আছে প্রচুর পরিমাণে ভিটামিন সি ও অ্যান্টিঅক্সিডেন্ট। ভিটামিন সি ও অ্যান্টিঅক্সিডেন্ট পুরুষের স্পার্মের সংখ্যা বৃদ্ধি করে। "
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple6"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView5" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৭. তরমুজ\n\n তরমুজকে প্রাকৃতিক ভায়াগ্রা বলা হয়ে থাকে। ২০০৮ সালে টেক্সাস  রিসার্চের এক গবেষণায় জানা গিয়েছে যে তরমুজে আছে লাইকোপেন, সাইট্রুলাইন ও বিটা ক্যারোটিন যা শরীরে যৌন উত্তেজনা বাড়াতে সহায়তা করে। এছাড়া আছে প্রচুর পরিমাণে ভিটামিন সি ও অ্যান্টিঅক্সিডেন্ট, যা স্পার্মের মান উন্নত করে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple7"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView6" />
+
+</LinearLayout>
+</ScrollView>

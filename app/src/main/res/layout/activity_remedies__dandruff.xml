@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="খুশকি দুর করার উপায় \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ১ . শ্যাম্পু\n\n ১। বর্তমানে বাজারে বিভিন্ন কোম্পানির শ্যাম্পু পাওয়া যায় যা খুশকি দূর করতে সাহায্য করে। এগুলোর মধ্যে যেটি আপনার ত্বকের প্রতি সহনীয় সেটি নিয়মিত ব্যবহার করলে খুশকি সমস্যা অনেকটাই দূর হয়ে থাকে। তবে যে শ্যাম্পুই ব্যবহার করুন না কেন তাতে যেন কিছু নির্দিষ্ট উপাদান থাকে।   যেমন – জিঙ্ক পাইরিথিওন, সেলেনিয়াম সালফাইড, কোল টার, কেটোকোনাজল, স্যালিসিলিক এসিড, টি ট্রি অয়েল, গ্রীন টি প্রভৃতি। এই উপাদানসমূহ খুশকি দূরীকরণে খুবই কার্যকর।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="টিপস ২. ভিনেগার\n\n  ভিনেগার ব্যবহার করলে খুশকি দূরীভূত হয়। শ্যাম্পুর পূর্বে বা পরে এক মগ জলে অর্ধেক কাপ ভিনেগার মিশিয়ে ভালো করে মাথায় ঢালুন। এমনভাবে দিতে হবে যাতে মাথার ত্বক ভিনেগার দ্বারা সিক্ত হয়। যদি শ্যাম্পুর পূর্বে দিয়ে থাকেন তবে ১০ মিনিট রাখুন এবং তারপর শ্যাম্পু করে ফেলুন। শ্যাম্পুর পরে দিলে আর কিছু করার প্রয়োজন নেই। সাধারণ ভিনেগার ব্যবহার করলেই হবে তবে এপল সিডার ভিনেগার ব্যবহার করলে অত্যধিক ভালো ফলাফল পাওয়া যায়। এটি কন্ডিশনারের কাজও করে থাকে। খুব বেশি গরম জল ব্যবহার, ব্লো ড্রাই ও হট এয়ার ড্রাই করবেন না|"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple3"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView2" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৩. মধু \n\n মধু ব্যাবহারেও খুশকি দূর হয়ে থাকে। মধু সরাসরি মাথার ত্বকে লাগিয়ে ৩০ মিনিট পর্যন্ত রাখতে হবে। শাওয়ার ক্যাপ ব্যবহার করে গড়িয়ে পড়া রোধ করতে পারেন। খুব হাল্কা গরম জল দিয়ে ধুয়ে নিবেন। গরম জল, ব্লো ড্রাই ও হট এয়ার ড্রাই পরিহার করুন। এটি চুল পড়াও কমায়।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple4"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView3" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৪. রোসমেরি অয়েল\n\n রোসমেরি অয়েলও খুশকি দূরীকরণে কার্যকর। শ্যাম্পুর পরে চুল শুকিয়ে যাওয়ার পর কয়েক ফোঁটা রোসমেরি অয়েল হাতের তালুতে নিয়ে মাথার ত্বকে ভালো করে ম্যাসাজ করুন। এরপর চিরূনি বা হেয়ার ব্রাশ দিয়ে আস্তে আস্তে পুরো চুল আঁচড়িয়ে নিন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple5"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView4" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text=". পেয়াজের রস\n\n পেয়াজের রস মাথার ত্বকে ব্যবহার করলে খুশকি দূর হয়। এটি মাথার ত্বকে দিয়ে ১৫ মিনিট রেখে ভালো করে শ্যাম্পু করে নিতে হবে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple6"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView5" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৫. লেবু\n\n লেবু খুবই সহজলভ্য। এটিও খুশকি দূরীকরণে কার্যকর। শ্যাম্পুর পরে এক মগ জলে একটি লেবুর রস মিশিয়ে মাথার ত্বকে দিন। অল্প কিছুক্ষণ রেখে জল দিয়ে ধুয়ে ফেলুন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple7"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+</LinearLayout>
+</ScrollView>

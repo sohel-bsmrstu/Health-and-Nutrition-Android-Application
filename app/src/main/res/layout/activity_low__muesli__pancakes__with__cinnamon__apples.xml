@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="প্যানকেক \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="উপকরণ :"
+            android:textSize="50dp"
+            android:textAlignment="center"
+            android:id="@+id/recipes"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text" />
+
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="=>ডিম ৩ টা,
+\n =>দুধ আধা কাপ,
+\n =>ময়দা ১ কাপ,
+\n =>চিনি আধা কাপ ( সবাদমত ),\n =>বেকিং পাউডার ১ চা- চামুচ,
+\n =>এলাচ ফলের ভিতরের বিচি গুড়া ১ টা,
+\n =>তেল ৫/৬ টে- চামুচ,
+\n =>লবন সামান্য।
+
+"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple1"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text1" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="রেসিপি পদ্ধতি : প্যানকেক"
+            android:textAlignment="center"
+            android:textSize="25dp"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="ডিম ফেঁটে তাতে চিনি দিয়ে আবার ভালো করে ফেঁটে নিতে হবে। ময়দা, বেকিং পাউডার, লবন একসাথে মিশিয়ে চেলে নিতে হবে। তারপর ময়দা, বেকিং পাউডার, গুড়া দুধ ( তরল দুধ ও দিতে পারেন) একসাথে ডিমের মিশ্রনে মিশিয়ে নিন। মিশানো হয়ে গেলে তেল দিয়ে ভালো করে মিশ্রনটি মিশাতে হবে। মিশ্রনটি বেশী ঘন ও না হয় আবার বেশী পাতলাও না হয়। সেদিকে খেয়াল রাখতে হবে। \n\n
+            এবারে মাঝাড়ি আঁচে ফ্রাইপ্যন বা লোহার তাওয়া গরম গরম করুন। ফ্রাইপ্যন গরম হয়ে গেলে আঁচ একদম কমিয়ে মিশ্রনটি আপনার ইচছামত বা ডাববু চামুচে করে তুলে ফ্রাইপ্যন দিয়ে দিন ( ফ্রাইপ্যন এ তেল ব্রাশ করে নিতে পারেন) । এবারে ঢাকনা দিয়ে ঢেকে দিন। ২/৩ মিনিট অপেক্ষা করুন। উপর পিঠে বুদবুদ উঠলে প্যনের কেক উলিটয়ে দিন। ঢাকনা দেবার প্রয়োজন নেই। বাদামী রঙ হয়ে এলে নামিয়ে নিন। গরম গরম পরিবেশন করুন মজার প্যানকেক।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+    </LinearLayout>
+    </ScrollView>

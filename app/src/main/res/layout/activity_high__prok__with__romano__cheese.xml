@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="নারকেল পালংশাক ভাজা  \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="উপকরণ :"
+            android:textSize="50dp"
+            android:textAlignment="center"
+            android:id="@+id/recipes"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text" />
+
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="১ কেজি পালংশাক (ধুয়ে পানি ঝরিয়ে কেটে নিতে হবে), আধা কাপ সরষের তেল, ১ টেবিল চামচ সরষেদানা, ১ কাপ নারকেল কোরানো, ১ টেবিল চামচ রসুনকুচি, ১ টেবিল চামচ কাঁচা মরিচকুচি, এক কাপের তিন ভাগের এক ভাগ পেঁয়াজকুচি, ২ চা-চামচ আদাকুচি, আধা চা-চামচ হলুদগুঁড়া।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple1"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text1" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="রেসিপি পদ্ধতি : নারকেল পালংশাক ভাজা"
+            android:textAlignment="center"
+            android:textSize="25dp"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="কড়াইতে তেল গরম করে সরষেদানা ছেড়ে দিন। দানাগুলো ফুটে এলে একে একে রসুনকুচি, কাঁচা মরিচ, পেঁয়াজ, আদা দিয়ে ভালো করে নাড়তে থাকুন। ভাজা মসলা থেকে সুগন্ধি বের হলে হলুদগুঁড়া দিয়ে নাড়াচাড়া করে নারকেল দিয়ে দিন। এবার কিছুক্ষণ পর শাকগুলো দিয়ে তিন মিনিট নাড়াচাড়া করে নামিয়ে রাখুন। অন্য একটি পাত্রে শাক ঢেলে ওপরে নারকেল দিয়ে পরিবেশন করুন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+</LinearLayout>
+</ScrollView>

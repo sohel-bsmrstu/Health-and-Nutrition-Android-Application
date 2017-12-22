@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="ওজন লাভের জন্য পুষ্টি টিপস "
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="21dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ১ . চার ঘণ্টার বেশি না খেয়ে থাকবেন না:\n\n আপনার শরীর নিয়মিত খাবারের সাপ্লাই চায়। যা শরীরকে পর্যাপ্ত শক্তির যোগান দিবে। বেশি সময় খাবার না খেয়ে থাকলে শরীরে খাদ্য ঘাটতি দেখা দিতে পারে ফলে ওজন বাড়ার বদলে উল্টো কমে যেতে পারে । খালি পেটে তো কিছুতেই থাকবেন না বরং সময়মত বেশি করে খাবার খেয়ে শরীরে খাদ্য ঘাটতি পুষিয়ে ফেলুন। "
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ২. ক্যালরি যুক্ত খাবার বেশি করে খান:\n\n প্রচুর পরিমাণে ক্যালরি যুক্ত খাবার গ্রহণ করুন। যেমন: বাদাম এবং শস্যদানা, চকোলেট, বাদামের মাখন, চিংড়ি, স্ট্রবেরী, কন্ডেনস্‌ড মিল্ক, ডিম, সয়াবিন, কিসমিস, খেজুর, নারকেল দুধ, বাদামী চাল, ওটমিল, বাটার বা তাহিনি, দই, কলা, অলিভ অয়েল, আঙুরের জুস, আনারস, আপেল, কমলা। দুগ্ধজাত খাবার এবং উচ্চ প্রোটিন সমৃদ্ধ খাবার যথা মাছ, মাংস ইত্যাদি থাকতে হবে প্রতি বেলার খাদ্য তালিকায়। "
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৩. ব্লেন্ড করে খান:\n\n আপনার যদি সবসময় খেতে ইচ্ছা না করে তাহলে খাবারগুলো ব্লেন্ড করেও খেতে পারেন। ড্রিংক হিসাবে কলা, খেজুর এর সাথে একটু মাখন, দুধ অথবা আম, পেস্তা বাদাম, স্ট্রবেরি, কমলা ইত্যাদি শ্রেষ্ঠ পুষ্টিকর উপাদান দিয়ে জুস তৈরি করে হাতের কাছে রাখুন। এগুলো আপনার শরীরের মাংস পেশীগুলোকে সুগঠিত করতে যথেষ্ট প্রোটিন সরবরাহ করবে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple3"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView2" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৪. বারবার খাওয়ার অভ্যাস ত্যাগ করুন:\n\n অনেকেই ভাবেন যে বারবার খেলে বুঝি ওজন বাড়বে। এটা মোটেও সঠিক না। বরং নিয়ম মেনে পেট পুরে খান। পেট পুরে খাওয়া হলে মেটাবলিজম হার কমে যায়, ফলে খাবারের ক্যালোরির অনেকটাই বাড়তি ওজন হয়ে শরীরে জমবে। অল্প অল্প করে বারবার খাওয়াটা মেটাবলিজম বাড়িয়ে দেয়, ফলে ওজন কমে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple4"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView3" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৫. ঘুমাবার ঠিক আগেই দুধ ও মধু খান:\n\n ওজন বাড়াবার জন্য একটা একটা অব্যর্থ কৌশল। রাতের বেলা ঘুমাবার আগে অবশ্যই বেশ পুষ্টিকর কিছু খাবেন। আর খিদে পেলে তো আয়েশ করে পেট পুরে খেয়ে নেবেন। আর সাথে সাথেই ঘুম। ফলে খাবারের ক্যালোরিটা খরচ হবার সময় পাবে না, বাড়তি ওজন হিশাবে জমবে শরীরে। ঘুমাবার আগে প্রতিদিন এক গ্লাস ঘন দুধের মাঝে বেশ অনেকটা মধু মিশিয়ে খেয়ে নিবেন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple5"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView4" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৬. নিয়মিত ব্যায়াম শুরু করুন:\n\n আমাদের সবার ধারণা ব্যায়াম শুধু ওজন কমানোর জন্যই কাজ করে। কিন্তু এটি ঠিক নয়। ব্যায়াম করলে শরীর একটিভ হয় এবং পুষ্টি উপাদানগুলো ঠিক মতো কাজে লাগে। ঠিক সময়ে ক্ষুধা লাগে, এবং তখন খাদ্য গ্রহণের রুচিও বৃদ্ধি পায়। প্রতিদিন হালকা কিছু ব্যায়ামই এর জন্য যথেষ্ট।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple6"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView5" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৭. পর্যাপ্ত ঘুমান ও দুশ্চিন্তা মুক্ত থাকুন:\n\n আপনার খাদ্যাভ্যাস আর শরীর চর্চার পাশাপাশি যেই জিনিসটা লাগবে তা হলো পর্যাপ্ত ঘুম এবং দুশ্চিন্তা মুক্ত থাকা। দৈনিক ৮-৯ ঘণ্টা ঘুম এবং অন্যান্য বিষয়গুলো মেনে চললে আশা করা যায় আপনার ওজন বাড়ানোর লক্ষ্য পূরণ হবেই। ব্রেনের উপর কোনো চাপ নেবেন না।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple7"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView6" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৮. প্রচুর শাক সবজি ও ফল খান:\n\n ভাবছেন এগুলো তো ওজন কমাবার জন্য খাওয়া হয়, তাই না? ওজন বাড়াতেও কিন্তু আপনাকে সাহায্য করবে এই ফল আর সবজি। এমন অনেক ফল আর সবজি আছে যারা কিনা উচ্চ ক্যালোরি যুক্ত। যেমন- আম, কাঁঠাল, লিচু, কলা, পাকা পেঁপে, মিষ্টি কুমড়া, মিষ্টি আলু, কাঁচা কলা ইত্যাদি। ফল ও সবজি খেলে স্বাস্থ্য জম্ন ভালো থাকবে, তেমনি ওজনও বাড়বে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple8"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView7" />
+</LinearLayout>
+</ScrollView>

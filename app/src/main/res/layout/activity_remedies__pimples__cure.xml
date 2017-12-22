@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="ব্রণ দূর করার উপায় \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ১ . এসপিরিন\n\n নিউইয়র্কের ডার্মাটোলজিস্ট এবং স্কিন রুলস বইয়ের লেখক ডেবরা জেলিমান জানান, এসপিরিন হলো এক ধরনের সলিসিলিক এসিড। একনি বা ব্রণ দূর করার পণ্যগুলোতে এই উপাদান ব্যবহার করা হয়। এসপিরিন গুঁড়ো করে পানি দিয়ে পেস্ট তৈরি করুন। তুলার মধ্যে লাগিয়ে এই পেস্ট সরাসরি ব্রণের মধ্যে ১০ মিনিট রাখুন। এর পর উষ্ণ গরম পানি দিয়ে ধুয়ে ফেলুন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ২. চা-গাছের তেল\n\n চা-গাছের তেলের মধ্যে রয়েছে অ্যান্টি-সেপটিক ও অ্যান্টি-ইনফ্লামেটরি উপাদান। কয়েক ফোঁটা চা-গাছের তেল তুলার মধ্যে লাগিয়ে খুব নরমভাবে ব্রণ ও দাগে লাগান। দেখবেন কয়েক দিনের মধ্যে ব্রণ সেরে উঠেছে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple3"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView2" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৩. বরফ\n\n
+ড. জেলিমান জানান, গোড়ালি মচকে গেলে এর ফোলা কমাতে বরফ কাজ করে। এটি ব্রণের প্রদাহ কমাতেও বেশ কার্যকর। একটি বরফের ছোট টুকরো পরিষ্কার কাপড়ের মধ্যে নিয়ে এক মিনিটের জন্য ব্রণের মধ্যে রাখুন। এই পদ্ধতি ব্রণের লাল হওয়া ও ফোলাভাব কমাবে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple4"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView3" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৪. লেবুর রস\n\n লেবুর রসের মধ্যে রয়েছে সাইট্রিক এসিড। রয়েছে এল-এসকোরোবিক এসিড, যা প্রাকৃতিক অ্যান্টি অক্সিডেন্টের উৎস। একটি তুলোর টুকরোর মধ্যে লেবুর রস মিশিয়ে ব্রণে লাগান। সারা রাত রাখুন। ব্রন দূর করতে এই পদ্ধতিও বেশ কার্যকর।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple5"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView4" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৫. রসুন\n\n রসুনের গন্ধ হয়তো আপনার বিরক্ত লাগতে পারে। কিন্তু এর মধ্যে রয়েছে অ্যান্টিসেপটিক ও অ্যান্টি-ব্যাকটেরিয়াল উপাদান; যা ব্রণ দূর করে। রসুন দেহের বিভিন্ন রোগ-প্রতিরোধেও উপকারী। এটি ক্যানসার প্রতিরোধ করে। রসুনে রয়েছে এলিসিন ও অ্যান্টি-ব্যাকটেরিয়াল উপাদান। রসুন কেটে পানির সঙ্গে পেস্ট করুন। এরপর ব্রণের মধ্যে পাঁচ মিনিট রেখে মুখ ধুয়ে ফেলুন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple6"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView5" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৬. মধু\n\n ব্রণ দূর করতে মধুও খুব উপকারী। মিষ্টি স্বাদের এই খাবারটি আপনি মাস্কের মতো মুখে লাগাতে পারেন। পাঁচ মিনিট লাগিয়ে রাখুন। এরপর ধুয়ে ফেলুন। এর ভেতর আছে অ্যান্টি ইনফ্লামেটরি এবং অ্যান্টি সেপটিক উপাদান। তবে নিয়মিতি মধু ব্যবহারে ব্রণ একেবারেই সারবে কি না, সেটা নিয়ে গবেষকরা এখনো দ্বন্দ্বে রয়েছেন। তাঁদের পরামর্শ, চেষ্টা করুন অপ্রক্রিয়াজাত বা টাটকা মধু ব্যবহার করতে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple7"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView6" />
+
+</LinearLayout>
+</ScrollView>

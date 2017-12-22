@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="গরুর মাংস \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="উপকরণ :"
+            android:textSize="50dp"
+            android:textAlignment="center"
+            android:id="@+id/recipes"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text" />
+
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="✿ হলুদের গুড়া দেড় চা চামচ,
+
+\n ✿ মরিচের গুড়া দুই চা চামচ,\n ✿ জিরা বাটা তিন চা চামচ,
+
+\n ✿ গরুর মাংস এক কেজি,
+
+\n ✿ পেয়াজ কুচি এক কাপ,
+
+\n ✿ রসুন বাটা ৩ চা চামচ,
+
+\n ✿ আদা বাটা দুই চা চামচ,
+
+\n ✿ এলাচ ৪টি,
+
+\n ✿ লং ৪টি,
+
+\n ✿ দারুচিনি ৩-৪ টুকরা,
+
+\n ✿ লবন আন্দাজমতো,
+
+\n ✿ তেল দেড় টেবিল চামচ,
+
+\n ✿ ৪টি মাঝারি আলু টুকরো করে কাটা।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple1"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text1" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="রেসিপি পদ্ধতি : গরুর মাংস"
+            android:textAlignment="center"
+            android:textSize="25dp"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="➜ আলু ছাড়া সব উপকরণ  একসাথে মাখিয়ে চুলায় বসিয়ে ঢেকে দিন।
+
+\n\n ➜ মাংস শুকিয়ে এলে ২ কাপ পানি দিয়ে কসিয়ে নিন।
+
+\n\n ➜ পানি হাল্কা শুকিয়ে এলে আলু দিয়ে একটু পানি দিয়ে কসিয়ে নিন।
+
+\n\n ➜ তারপর কসান হয়ে গেলে পরিমাণ মত পানি দিয়ে ঢেকে দিন ও কড়া জ্বাল দিন।
+
+\n\n ➜ ঝোল মাখা মাখা হলে নামিয়ে ফেলুন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+
+
+    </LinearLayout>
+</ScrollView>

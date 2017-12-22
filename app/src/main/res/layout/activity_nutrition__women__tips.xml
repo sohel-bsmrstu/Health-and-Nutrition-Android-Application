@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="মহিলাদের জন্য পুষ্টি টিপস"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="21dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ১ . হৃৎপিণ্ড বা হার্ট\n\n যুক্তরাষ্ট্রের মাউন্ট সিনাই হাসপাতালের হৃদরোগ বিশেষেজ্ঞ ডা. বেথ অলিভার বলেন, ‘‘প্রতিদিন, প্রতিবেলায় বিভিন্ন রংয়ের ফল ও সবজি এবং যথেষ্ট পরিমাণে আঁশযুক্ত খাবার, পানি, আপেল ও আখরোট, সূর্যমুখী ফুলের বিচি, ডাল এবং ডিমের হলুদ অংশ খান৷ এসবই হৃৎপিণ্ডের জন্য খুবই উপকারী৷’’"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ২. কিডনি ঠিক রাখতে\n\n খেলাধুলা, হাঁটাচলা, ব্যায়াম উচ্চ রক্তচাপ কমিয়ে ডায়াবেটিস রোধ করে৷ কারণ ডায়াবেটিস থেকেই কিডনির নানা সমস্যা দেখা দেয়৷ ফলমূল, শাকসবজি, ফাইবার ইত্যাদি খেয়ে ওজন ঠিক রাখা প্রয়োজন৷ লবণ যতটা সম্ভব কম খাওয়া উচিত, কারণ অতিরিক্ত লবণ কিডনির ক্ষতি করে৷ কিডনি পরিষ্কার রাখতে দিনে দেড় থেকে দু’লিটার পানি পান করা প্রয়োজন৷"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৩. হাড়ের যত্ন\n\n হাড় শক্ত রাখতে নিয়মিত শরীর চর্চা বা বিশেষ ধরনের ব্যায়াম বড় ভূমিকা পালন করতে পারে৷ হাড় নরম বা ভেঙে যাওয়ার জন্য শুধু বয়স বাড়াই একমাত্র কারণ নয়৷ থাইরয়েড, পেটের ক্রনিক সমস্যা বা পাকস্থলির অসুখের কারণেও হাড় নরম বা ক্ষয় হতে পারে৷ আর পুষ্টিগুণ সম্পন্ন খাবার না খাওয়া ও অতিরিক্ত ধূমপান ও নানা ধরনের ওষুধপত্র সেবন হাড়কে নরম করতে পারে৷"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple3"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView2" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৪. পেট বা অন্ত্র ঠিক রাখুন\n\n মানুষের শরীরের সবচেয়ে বড় অঙ্গ অন্ত্র বা পেট যা লম্বায় প্রায় ৮ মিটার৷ শরীরের গ্রহণ করা খাবারগুলো সহজপাচ্য বস্তুতে পরিণত করে অন্ত্র৷ সেখানে সমস্যা দেখা দিলে সবই ওলট-পালট মনে হয়৷ সেকথা মনে হয় কমবেশি সকলেই জানি৷ তাই শরীরকে ফিট রাখতে হলে অবশ্যই পেট ঠিক রাখতে হবে৷ তাই হাঁটাচলা, শষ্যদানা, বিচি, সাদা দই, শাকসবজি, ফলমূল ও সুষম খাবার গ্রহণ খুবই দরকার৷"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple4"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView3" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৫. অতিরিক্ত রোদ নয়!\n\n তারুণ্য ধরে রাখতে অ্যান্টি-অক্সিডেন্টের জুড়ি নেই৷ ফাস্ট ফুড, স্ট্রেস, অতিরিক্ত টেনশন, ধূমপান, মদ্যপান ইত্যাদি ত্বক নষ্ট করে৷ সূর্যের অতিবেগুনি রশ্মি ত্বকে নেতিবাচক প্রভাব ফেলে৷ তাই রোদ থেকে দূরে থাকা উচিত৷ শরীর ও মন ভালো এবং ফিট রাখার জন্য শরীরের ভেতরের মতো শরীরের ত্বকের স্বাস্থ্যও ভালো থাকা প্রয়োজন৷ ল্যুবেক বিশ্ববিদ্যালয় ক্লিনিকের ত্বক বিশেষজ্ঞ ডা. বিরগিট কালে বলেন এসব কথা৷"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple5"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView4" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৬. হেঁটে পায়ের যত্ন!\n\n আমাদের শরীরের সমস্ত ভার বহন করে আমাদের পা দুটো৷ তাই পায়ের স্বাস্থ্য খুব জরুরি৷ পায়ের মাংসপেশি শক্ত করতে ও ফিট থাকতে হাঁটাহাঁটির কোনো বিকল্প নেই৷ হাঁটা যে-কোনো মানুষকে ফিট রাখতে বড় ভূমিকা পালন করে৷"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple6"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView5" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৭. ব্যায়াম\n\n শরীরচর্চা বা ব্যায়াম ছাড়া শারীরিকভাবে সুন্দর হওয়া সম্ভব নয়৷ তাছাড়াও শারীরিক এবং মানসিকভাবে ফিট থাকার জন্য বছরে অন্তত একবার ‘মেডিকেল চেকআপ’ করিয়ে নেওয়াও অত্যন্ত দরকারি৷"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple7"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+</LinearLayout>
+</ScrollView>

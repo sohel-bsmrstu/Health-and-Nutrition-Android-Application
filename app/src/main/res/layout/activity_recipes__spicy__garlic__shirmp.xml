@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="মসলাযুক্ত রসুন চিংড়ি \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="উপকরণ :"
+            android:textSize="50dp"
+            android:textAlignment="center"
+            android:id="@+id/recipes"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text" />
+
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="মাঝারি চিংড়ি ৫০০ গ্রাম, লেবুর রস ২ টেবিল চামচ, পাপরিকা সিকি চা-চামচ, লবণ স্বাদমতো, মাখন ২ টেবিল চামচ, তেল ২ টেবিল চামচ, রসুন কুচি ২ টেবিল চামচ, লাল মরিচ থেঁতলানো ২টা, চিনি ১ চা-চামচ।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple1"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text1" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="রেসিপি পদ্ধতি : চিংড়ি"
+            android:textAlignment="center"
+            android:textSize="25dp"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text=" চিংড়ি ধুয়ে কিচেন টাওয়েল দিয়ে মুছে শুকিয়ে নিন। তাতে ১ টেবিল চামচ লেবুর রস, পাপরিকা ও ১ চিমটি লবণ মেখে পরিবেশন পাত্রে রাখুন। চুলায় প্যানে মাখন দিয়ে রসুন কুচি ও থেঁতলানো লাল মরিচ দিয়ে একটু ভেজে নিন। এবার বাকি সব উপকরণ দিয়ে একটু নেড়েচেড়ে খুব অল্প পানি দিন। ঘন সস হয়ে এলে মাছের ওপর ঢেলে দিন। এবার ২০০ ডিগ্রি সেলসিয়াস তাপে ১৫-২০ মিনিট প্রিহিটেড ওভেনে বেক করুন। নামিয়ে গরম গরম পরিবেশন করুন ফ্রায়েড রাইস বা পোলাওর সঙ্গে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+
+
+    </LinearLayout>
+</ScrollView>

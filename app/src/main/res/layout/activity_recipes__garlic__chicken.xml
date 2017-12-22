@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="গার্লিক চিকেন \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="উপকরণ :"
+            android:textSize="50dp"
+            android:textAlignment="center"
+            android:id="@+id/recipes"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text" />
+
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="মুরগীর মাংস ৫০০ গ্রাম, লেবুর রস  ১ টেবিল চামচ, গোল মরিচ  ২ চা চামচ, চিলি ফ্লেক্স  ১ চা চামচ, চিলি গার্লিক পেস্ট  ১ টেবিল চামচ, কর্নফ্লাওয়ার  ২ টেবিল চামচ, ডিমের সাদা অংশ ১ টি, রসুন বাটা  ৩ টেবিল চামচ, আদা বাটা  ১ চা চামচ, পেঁয়াজ ১/২ কাপ (কুচনো), লবণ স্বাদমতো, সয়া সস  ২ টেবিল চামচ, টমেটো সস  ১/৩ কাপ, তেল ১ টেবিল চামচ, চিনি  ১ চা চামচ, তেল।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple1"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text1" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="রেসিপি পদ্ধতি : গার্লিক চিকেন"
+            android:textAlignment="center"
+            android:textSize="25dp"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="পানি দিয়ে ভাল করে ধুয়ে মাংসের টুকরোগুলি পরিস্কার করে নিন। লেবুর রস দিয়ে মাংসের টুকরোগুলি ম্যারিনেট করে নিন। তাতে থেঁতো করা গোলমরিচ এবং ডিমের সাদা অংশ এবং কর্ণফ্লাওয়ার মেখে নিন। ২০ মিনিট এইভাবে ম্যারিনেট করে রেখে দিন। এবার ছাঁকা তেলে মাংসের টুকরোগুলি দিয়ে ভাল করে ভেজে নিন। রং যেন সোনালি হয়। একটি প্যানে ১ টেবিল চামচ তেল গরম করুন। আদা ও রসুন বাটা তেলে দিয়ে ভাল করে ভাজাভাজা করে নিন। এতে পেঁয়াজকুচি দিয়ে ৩-৪ মিনিট ভেজে নিন। চিলি গার্লিক পেস্ট, চিলি ফ্লেক্স, সয়া সস, টমেটো সস, চিনি ও এক কাপ পানি দিয়ে দিন। ভাল করে নাড়াচাড়া করে মেশান। এই মিশ্রণটাকে ফুটতে দিন। ফুটে উঠলে তাতে ভাজা মাংসের টুকরোগুলি দিয়ে দিন। স্বাদমতো লবণ দিয়ে মিলিয়ে নিন। এক বাটি জলে ১ টেবিল চামচ কর্নফ্লাওয়ার মিশিয়ে প্যানের মধ্যে দিয়ে দিন। মাংসের ঝোল ঘন হয়ে এলে আঁচ বন্ধ করে দিন। গরম গরম পরিবেশন করুন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+</LinearLayout>
+</ScrollView>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="স্বরভাঙ্গা দূর করার উপায় \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ১. লবণ পানি \n\n লবণ পানি দিয়ে গড়গড়া করাটা সবচেয়ে সাধারণ এবং একই সঙ্গে কার্যকর পদ্ধতি। পানি সামান্য গরম করে নিতে পারেন। কারও গলার স্বর বসে গেল, তার উচিত দিনে অন্তত ৪ বার লবণ পানি দিয়ে গড়গড়া করা। লবণ-পানি পছন্দ না হলে, লবণ-পানির সঙ্গে সামান্য মধু মিশিয়ে নিতে পারেন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ২. যষ্টিমধুর গুঁড়া\n\n বিকল্প পথও রয়েছে। লবণের পরিবর্তে আপনি হালকা গরম পানিতে যষ্টিমধুর গুঁড়া মিশিয়ে গড়গড়া করতে পারেন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple3"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView2" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৩. লেবু\n\n হালকা গরম লেবু পানির সঙ্গে মধু মিশিয়ে পান করলে গলাব্যথা থেকে নিষ্কৃতি পাবেন আপনি। শুধু হালকা গরম পানিতে কিংবা হার্বাল বা ভেষজ চায়ের সঙ্গে মধু মিশিয়ে পান করতে পারেন। এতে আপনার গলাব্যথা অনেকটা উপশম হবে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple4"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView3" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৪. আদা\n\n ভাঙা গলায় আদাও বেশ কার্যকর। শুকনো আদায় ব্যাকটেরিয়া ধ্বংসকারী উপাদান রয়েছে, যা আপনার গলার বসে যাওয়া স্বরকে স্বাভাবিক করে তুলতে পারে। তাছাড়া, উপকারের জন্য আদা চা বা লবঙ্গ চা পান করতে পারেন। রসুনও গলার ব্যথা খানিকটা উপশম করতে পারে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple5"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView4" />
+</LinearLayout>
+</ScrollView>

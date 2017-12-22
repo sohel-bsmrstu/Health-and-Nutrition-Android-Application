@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="মাথা ব্যাথা দূর করার উপায় \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ১ . আদা ও আদা চা\n\n মাথা ব্যথা উপশমে আদার জুড়ি নেই। কারণ আদায় রয়েছে ‘প্রোস্টাগ্ল্যান্ডিন সিনথেসিস’ যা অ্যাসপিরিন অ ব্যথানাশক ঔষধে ব্যবহার করা হয়। তাই মাথা ব্যথা শুরু হলে সামান্য আদা ছিলে নিয়ে চিবনো শুরু করুন।
+\n এতে মাথা ব্যথা দ্রুত উপশম হবে। এর পাশাপাশি এক কাপ পানি ফুটিয়ে এতে আদা সামান্য ছেঁচে নিয়ে ফুটিয়ে নিয়ে সামান্য মধু দিয়ে পান করতে পারেন আদা চা। এতেও মাথা ব্যথা দ্রুত দূর হবে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ২. আইসব্যাগ\n\n বাজারে নানা আকারের অনেক আইসব্যাগ কিনতে পাওয়া ইয়া। একটি আইসব্যাগে বরফ ভরে নিয়ে তা মাথার ওপরে অর্থাৎ ঠিক মাথার তালুতে খানিকক্ষণ ধরে রাখুন। দেখবেন মাথা ব্যথা উপশম হচ্ছে। তবে জাদের হুটহাট ঠাণ্ডা লেগে যাওয়ার প্রবণতা আছে তারা এই পদ্ধতি পালন করবেন না।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple3"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView2" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৩. মিষ্টিকুমড়োর বিচি খান\n\n মিষ্টি কুমড়োর বিচি ভেজে খেলে মাথা ব্যথার সমস্যা থেকে দুত মুক্তি পাওয়া সম্ভব। কারণ মিষ্টি কুমড়োর বিচিতে হয়েছে প্রচুর পরিমাণে ম্যাগনেসিয়াম সালফেট যা মাথা ব্যথা উপশমে কাজ করে থাকে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple4"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView3" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৪. কাঠবাদাম খাওয়ার অভ্যাস রাখুন\n\n অনেক সময় আবহাওয়া, ধুলোবালির কারণে মাথা ব্যথা শুরু হয়ে যায়, আবার অনেক সময় মানসিক চাপের কারণেও মাথা ব্যথা শুরু হয়। এই সকল ধরনের ব্যথা কমানোর জন্য একমুঠো বা দুইমুঠো কাঠবাদাম চিবিয়ে খান। কাঠবাদামে রয়েছে ‘স্যালিসিন’ যা ম্যথা ব্যথা উপশমে কাজ করে রবং দ্রুত ব্যথা নিরাময় করে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple5"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView4" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৫. মনোযোগ দিয়ে গান শুনুন\n\n মন ভালো করার পাশাপাশি মাথা ব্যথা উপশমে সব চাইতে ভালো কাজ হচ্ছে গান শোনা। ‘জার্নাল অফ পেইন’ গবেষণাপত্রে প্রকাশ হয় গান শোনা প্রায় ১৭% ব্যথা কমিয়ে দিতে সহায়তা করে। কারণ গান মনোযোগ দিয়ে শোনার সময় আমাদের লক্ষ্য মাথা ব্যথা থেকে সরে যায় যা আমাদের মাথা ব্যথার কথা অনেক সময় ভুলিয়ে দেয়। এতে করেই সেরে উঠে মাথা ব্যথা।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple6"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView5" />
+</LinearLayout>
+</ScrollView>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="শতমূলী সালাদ \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="উপকরণ :"
+            android:textSize="50dp"
+            android:textAlignment="center"
+            android:id="@+id/recipes"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text" />
+
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="175ছ (6 আউন্স) দ্রুতগামী polenta না এর (প্রাক রান্না ভুট্টা খাবার)
+
+\n 175ছ (6 আউন্স) রেডিমেড মটরশুটি আপীত ওজন, মিশ্র বা একটি একক টাইপ
+
+\n শতমূলী একটি গুচ্ছ (সম্পর্কে 200g বা 7 আউন্স)
+
+\n সেলারি লাঠি
+
+\n একটি সাদা পেঁয়াজ এক চতুর্থাংশ (স্যালাডে জন্য বিশ্রাম সংরক্ষণ)
+
+\n পুদিনা সস আধা চা চামচ
+
+\n শক্তিশালী ইংরেজি সরিষা এক চা চামচ
+
+\n সাদা ওয়াইন ভিনেগার একটি খাত্তয়ার জন্য চামচ
+
+\n জলপাই তেল
+
+\n লবণ এবং মরিচ
+
+\n 2 সালাদ পাতার মুঠি
+
+\n লেবুর রস
+
+\n লংকা থাক (ঐচ্ছিক)"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple1"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text1" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="রেসিপি পদ্ধতি : শিম সালাদ"
+            android:textAlignment="center"
+            android:textSize="25dp"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Finely, পেঁয়াজ এবং সেলারি কুচি কুচি করে কাটা এবং একটি বড় বাটি মধ্যে করা.
+\n পুদিনা সস আধা চা চামচ যোগ করুন, সরিষা চা চামচ, সাদা ওয়াইন ভিনেগার খাত্তয়ার জন্য চামচ জলপাই তেল দুটি tablespoons
+
+\n লবণ এবং মরিচ প্রচুর সঙ্গে সিজন
+\n সবকিছু লেপা পর্যন্ত মটরশুটি যোগ এবং ফেটান"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+</LinearLayout>
+</ScrollView>

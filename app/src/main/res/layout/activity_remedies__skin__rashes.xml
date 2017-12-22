@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="ত্বকের ফুসকুড়ি দূর করার উপায় \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ১. নিয়মিত সানস্কিন ব্যবহার\n\n সূর্যের ক্ষতিকর রশ্মি থেকে ত্বককে রক্ষা করতে চাইলে ঘর থেকে বের হওয়ার কিছুক্ষণ আগে এসপিএফ ১৫ বা তারও বেশি এসপিএফ যুক্ত সানস্ক্রিন ব্যবহার করা উচিত। কারণ ত্বকে কোন প্রদাহ বা র‌্যাশের সমস্যা থাকলে সূর্যের তাপ তা আরো বাড়িয়ে দিতে পারে। তাই আগে থেকেই প্রতিরোধ ব্যবস্থা নেওয়া উচিত।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ২. গোলাপ জল ও চন্দন\n\n এটি ত্বকের প্রদাহ দূর করতে বেশ উপযোগী একটি প্যাক। এই প্যাক তৈরি করতে প্রয়োজন- সমপরিমাণ লেবুর রস, চন্দন-গুঁড়া ও গোলাপ জল। সবগুলো উপকরণ একসাথে মিশিয়ে ঘন পেস্ট তৈরি করে ত্বকে মেখে রাখতে হবে ১০ থেকে ১৫ মিনিট। এরপর পরিষ্কার পানি দিয়ে ধুয়ে ফেললেই ত্বকের্ পরিবর্তন দেখা যাবে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple3"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView2" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৩. কমলা ও কাঠবাদাম\n\n একটি পাত্রে কমলার খোসার গুঁড়া এবং ভালোভাবে মিহি করে নেওয়া কাঠবাদামের গুঁড়া নিতে হবে। এর সঙ্গে পানি মিশিয়ে ঘন পেস্ট তৈরি করতে হবে। এই পেস্ট স্ক্রাব হিসেবে কাজ করবে। পেস্ট দিয়ে ঘষে ৩০ থেকে ৬০ সেকেন্ড ত্বক স্ক্রাব করতে হবে। এরপর পরিষ্কার পানি দিয়ে ধুয়ে ফেলতে হবে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple4"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView3" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৪. আলু\n\n আলু ত্বকের দাগ এবং অসম রং দূর করতে এমনকি চোখের নিচের কালচে ভাব হালকা করতেও সাহায্য করে। র‌্যাশ বা ব্রণের কারণে ত্বকে যে কোন দাগ ও লালচে ভাব দূর করতেও আলুর রস বেশ উপকারী।
+
+\n\n একটি আলু কুচি করে চেপে রস বের করে নিতে হবে। এরপর এই রস তুলা বা ব্রাশের সাহায্যে পুরো মুখে লাগিয়ে ১৫ থেকে ২০ মিনিট অপেক্ষা করতে হবে। এরপর মুখ ভালোভাবে ধুয়ে নিতে হবে। নিয়মিত ব্যবহারে উপকার পাওয়া যাবে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple5"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView4" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৫.  কলার খোসা\n\n একটি পাকা কলার খোসার ভেতরের অংশ ক্ষতিগ্রস্ত ত্বকের উপর আলতো করে ঘষে নিতে হবে ১০ মিনিট। খোসা বাদামি হয়ে গেলে ত্বক পুরোপুরি শুকিয়ে যাওয়া পর্যন্ত অপেক্ষা করতে হবে। এরপর ধুয়ে ফেলতে হবে।
+
+\n\n বাইরের দূষণ, অনিয়মিত খাদ্যাভ্যাস, প্রয়োজনীয় পুষ্টির অভাব ইত্যাদি কারণে ত্বকে বিভিন্ন সমস্যা দেখা দেয়। তাই ত্বক ভালো রাখতে নিয়মিত যত্নের পাশাপাশি প্রচুর পানি পান ও পুষ্টিকর খাবার খাওয়ার অভ্যাস গড়ে তুলতে হবে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple6"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView5" />
+    </LinearLayout>
+</ScrollView>

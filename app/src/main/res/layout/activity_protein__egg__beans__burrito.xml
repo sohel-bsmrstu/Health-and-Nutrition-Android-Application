@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="ফ্রাইড রাইস \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="উপকরণ :"
+            android:textSize="50dp"
+            android:textAlignment="center"
+            android:id="@+id/recipes"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text" />
+
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text=" পোলাও এর চাল, তেল, ঘি, লবন, মুরগির গোস্ত, সয়াসস, কাঁচা মরিচ, গোল মরিচ, চিনি, আদা বাটা/কুচি, রসুন বাটা/কুচি, পিয়াজ কুচি, ডিম, গাজর, মটরশুটি ও বরবটি। "
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple1"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text1" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="রেসিপি পদ্ধতি : ফ্রাইড রাইস"
+            android:textAlignment="center"
+            android:textSize="25dp"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="প্রথমে গরম তেলে লবন ও পোলাও এর চাল দিয়ে ভালোভাবে নেড়ে পরিমানমতো পানি দিন এবং ঢাকনি দিয়ে ঢেকে দিন । মনে রাখবেন চাল যেন খুব বেশি নরম বা শক্ত না হয়। মুরগির গোস্ত ছোট ছোট টুকরা করে কেটে নিন। এবার গোস্তের সাথে সয়াসস, আদা বাটা, রসুনবাটা, গোলমরিচ দিয়ে মেরিনেট এর জন্য ১০ মিনিট রাখুন। ডিম আলাদা করে ভেজে রাখুন। মটরশুটির খোসা ছাড়িয়ে নিন এবং গাজর ও বরবটি ছোট ছোট টুকরা করে নিন। এবার একসাথে ভাপে সিদ্ধ করুন। পোলাও হয়ে গেলে একটি পাত্রে তেল ও সামান্য ঘি দিন। তেল/ঘি গরম হলে এতে একে একে পিয়াজ কুচি, আদা কুচি, রসুন কুচি, মেরিনেট করা গোস্ত ও ভাপে সিদ্ধ করা সবজি দিন। ভালোভাবে নাড়ুন। কিছুক্ষন পর এতে পোলাও দিয়ে ভালোভাবে নেড়ে মিশিয়ে নিন।এবার কাচামরিচ, গোল মরিচ ও সামান্য চিনি দিন। হয়ে গেলো সুস্বাদু ফ্রাইড রাইস। গরম গরম পরিবেশন করুন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+</LinearLayout>
+</ScrollView>

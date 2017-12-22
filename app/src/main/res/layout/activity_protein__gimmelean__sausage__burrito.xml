@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="ফাষ্ট ফুডটুনা ফিস রাইস \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="উপকরণ :"
+            android:textSize="50dp"
+            android:textAlignment="center"
+            android:id="@+id/recipes"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text" />
+
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টুনা মাছ সেদ্ধ করে কাটা ছাড়ানো
+\n ১ কাপ
+\n গরম ভাত ১/২কাপ
+\n পেয়াজ কুচি ১/২কাপ
+\n কাচামরিচ ৪/৫টা
+\n আদাবাটা ১ চা চামচ
+\n জিরা বাটা ১/২ চা চামচ
+\n গরম মশলা ১/২ চা চামচ
+\n টালা জিরা গুড়া ১/২ চা চামচ
+\n লেবুর রস ১ চা চামচ
+\n ডিম ১টা
+\n বিস্কুটের গুড়া বা ব্রেড ক্রাম ১ কাপ
+\n তেল ১কাপ
+\n গোল মরিচ গুড়ো ১ চা চামচ
+\n ধনে পাতা কুচি ২ চা চামচ
+\n লবন পরিমান মত
+\n ফিস সস ১ চা চামচ
+\n চিলি সস ১ চামচ"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple1"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text1" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="রেসিপি পদ্ধতি : ফাষ্ট ফুডটুনা ফিস রাইস"
+            android:textAlignment="center"
+            android:textSize="25dp"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="কাটা ছাড়ানো মাছ ও গরম ভাত ভালো করে চটকে নিতে হবে।এবার তেল ডিম টোষ্টের গুড়ো বাদে সব উপকরন একসাথে মাছের সাথে মিশিয়ে নিন।এখন এটা থেকে গোল গোল করে বল বানিয়ে নিতে হবে।ডিম ফেটে নিন।বল গুলো ডিমে চুবিয়ে টোষ্টের গুড়াতে ভালো করে গড়িয়ে নিন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+</LinearLayout>
+</ScrollView>

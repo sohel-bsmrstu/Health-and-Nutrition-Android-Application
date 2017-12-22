@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text=" পিঠের ব্যাথা প্রতিকারের উপায় \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ১ . বালিশের দিকে লক্ষ্য রাখুন\n\n ঘুমের সময় মাথায় বালিশ নিয়ে ঘুমানোর সামান্য ত্রুটির কারণেও মেরুদণ্ডের মারাত্মক ক্ষতি হতে পারে। বালিশ বেশি উঁচু হলে মেরুদণ্ডে চাপ পড়ে। তাই বালিশ এমনভাবে নির্বাচন করুন যাতে শোয়ার সময় মেরুদণ্ড সোজা থাকে। চিৎ হয়ে ঘুমানোর অভ্যাস থাকলে হাঁটুর নিচে আরেকটি বালিশ রাখুন। কাত হয়ে ঘুমানোর অভ্যাস থাকলে হাঁটুর মাঝে বালিশ রাখার চেষ্টা করুন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ২. সতর্কতার সাথে ব্যায়াম করুন\n\n অনেকেই ব্যায়াম করেন সুস্বাস্থ্যের জন্য। কিন্তু বেশিভাগ সময়েই ব্যায়ামের সঠিক নিয়ম পালন করতে দেখা যায় না অনেককে। ব্যায়াম করার সময় সতর্কতা অবলম্বন করুন। মেরুদণ্ডে বেশি চাপ পড়ে এমন ব্যায়াম করা থেকে বিরত থাকুন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple3"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView2" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৩. একটানা একভাবে বেশিক্ষণ বসে থাকবেন না\n\n কাজের সময় আমরা একটানা একভাবে বসে কতোক্ষণ সময় পার করি তা আমরা অনেকেই হিসাব করি না। কিন্তু একটানা একভাবে বসে থাকা আমাদের মেরুদণ্ডের মারাত্মক ক্ষতি করে। তাই কাজের ফাঁকে উঠে দাঁড়াবেন কিংবা খানিকক্ষণ হাঁটবেন। নিতান্তই না পারলে একটু পর পর বসার স্টাইল পরিবর্তন করুন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple4"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView3" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৪. ভিটামিন ডি\n\n ভিটামিন ডিএর স্বল্পতা হাড়কে করে তোলে ভঙ্গুর। গবেষণায় দেখা যায় যারা মেরুদণ্ডের সমস্যা নিয়ে ডাক্তারের কাছে যান তাদের ৮০% মানুষই ভিটামিন ডি সল্পতার কারণে মেরুদণ্ডের সমস্যায় পড়েন। তাই ভিটামিন ডি সমৃদ্ধ খাবার খান এবং সকালের মিষ্টি রোদ গায়ে লাগানোর ব্যবস্থা করুন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple5"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView4" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৫. ক্রাঞ্চ করুন\n\n ক্রাঞ্চ প্রায় ৭৫% পর্যন্ত মেরুদণ্ডের সমস্যা দূর করতে সহায়তা করে। তাই ব্যায়ামের তালিকায় রাখুন ক্রাঞ্চ। একটি সমতল জায়গায় লম্বা হয়ে শুয়ে পড়ুন। এরপর মাথার পেছনে দু হাত দিয়ে হাতু ভাঁজ করুন। এই অবস্থায় মাথাসহ দেহের উপরিভাগ উপরে তুলুন। এই ব্যায়ামটি মেরুদণ্ডের জন্য বেশ কার্যকরী একটি ব্যায়াম। "
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple6"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView5" />
+    </LinearLayout>
+</ScrollView>

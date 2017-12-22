@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp">
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="অম্লতা"
+        android:textSize="20dp"
+        android:id="@+id/button"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView1" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="সর্দি-ঠান্ডা"
+        android:textSize="20dp"
+        android:id="@+id/button2"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView2" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="মাথা ব্যাথা"
+        android:textSize="20dp"
+        android:id="@+id/button3"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"
+        android:layout_gravity="center_horizontal" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView3" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="পিঠে ব্যাথা"
+        android:textSize="20dp"
+        android:id="@+id/button4"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"
+        android:layout_gravity="center_horizontal" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView4" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="ব্রণ"
+        android:textSize="18dp"
+        android:id="@+id/button5"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView5" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="দাঁত ব্যাথা "
+        android:textSize="20dp"
+        android:id="@+id/button6"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView6" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="ওজন কমানো"
+        android:textSize="20dp"
+        android:id="@+id/button7"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"
+        android:layout_gravity="center_horizontal" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView7" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="খুশকি"
+        android:textSize="20dp"
+        android:id="@+id/button8"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"
+        android:layout_gravity="center_horizontal" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView8" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="চুল পরা"
+        android:textSize="20dp"
+        android:id="@+id/button9"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView9" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="ত্বকের ফুসকুড়ি"
+        android:textSize="20dp"
+        android:id="@+id/button10"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView10" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="মুখের ঘা"
+        android:textSize="20dp"
+        android:id="@+id/button11"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"
+        android:layout_gravity="center_horizontal" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView11" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="নাক ডাকা"
+        android:textSize="20dp"
+        android:id="@+id/button12"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"
+        android:layout_gravity="center_horizontal" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView12" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="এজমা"
+        android:textSize="20dp"
+        android:id="@+id/button13"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView13" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="স্বরভঙ্গ"
+        android:textSize="20dp"
+        android:id="@+id/button14"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="5dp"
+        android:id="@+id/textView14" />
+
+
+</LinearLayout>
+</ScrollView>

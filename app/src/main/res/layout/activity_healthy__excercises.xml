@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="স্বাস্থ্যকর ব্যায়াম"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="21dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ১.\n\n  প্রতিদিন ৪৫ মিনিট জোরে হাঁটুন। একবারে না পারলে কয়েকবারে। এতে দেহের সমস্ত— অঙ্গ-প্রত্যঙ্গ নমনীয় থাকে ও মগজে প্রচুর অক্সিজেন ঢোকায় দুশ্চিন্তা কমে। হাঁটায় মহিলাদের ঋতু বন্ধজনিত হাড়ক্ষয় এবং অন্যান্য জটিলতাও রোধ হয়।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/excercises"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ২.\n\n  অঙ্গ-প্রত্যঙ্গ নড়াচড়া এবং মালিশ করা ভাল ব্যায়াম। কারণ এতে রক্ত সঞ্চালন সহজ হওয়ায় চর্বি জমতে পারে না। এখানে দেহের গুরুত্বপূর্ণ কিছু স্থানে মালিশের উল্লেখ করা হল যার দ্বারা কাছের তো বটেই, দূরের অঙ্গ-প্রত্যঙ্গও উপকৃত হয়।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/excercises1"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৩.\n\n শুয়ে পেটের ওপরে দু’হাত রেখে গভীরভাবে নাক দিয়ে শ্বাস নিয়ে পেট ফুলিয়ে মুখ দিয়ে ধীরে ধীরে শ্বাস ছাড়লে ফুসফুসের শক্তি বাড়ে এবং দিনে ২০ মিনিট এটি করলে ভাল ঘুম হয়। দেহের সার্বিক শক্তি বৃদ্ধি ও তারুণ্য ধরে রাখার জন্য একটানা যতক্ষণ পারা যায় মলদ্বার সংকোচন করা ও ছেড়ে দেয়া খুবই ভাল একটি ব্যায়াম।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/exercises3"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView2" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৪.\n\n  স্নায়ুতন্ত্রের এক বড় অংশ শেষ হয়েছে হাতের তালুতে ও পায়ের তলায়। এ জন্য হাততালি দিলে চোখের ছানি দূর হয়, উচ্চ রক্তচাপ কমে এবং স্মরণশক্তি বাড়ে। পায়ের তলা কর্কশ কোনো কিছু, যেমন ধুন্দুলের ছোবড়া কিংবা প্লাস্টিকের ব্রাশ দিয়ে দিনে মোট ২০ মিনিট ঘষলে দেহের সব অঙ্গ-প্রত্যঙ্গই উদ্দীপ্ত হয়, সতেজ থাকে এবং রোগাক্রান্ত হলেও ধীরে ধীরে সুস্থ হয়। বিশেষতঃ অনিদ্রা, হৃদরোগ ও স্ট্রোক প্রতিরোধে এবং মহিলাদের গর্ভাবস্থায় খুব উপকার পাওয়া যায়। পায়ের তলা ঘষার পর আঙ্গুলগুলো ওপর-নিচ করে টানুন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/excercises4"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView3" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৫.\n\n  মুখ ধোয়ার সময়ে চোখে ২৫ বার পানির ঝাপটা দিন। নাক দিয়ে পানি যতটা পারা যায় টানুন ও ছাড়–ন। এতে সহজে সর্দি-কাশি হবে না। উপরন্তু এটি মাথাব্যথা, সাইনাসাইটিস ও মাইগ্রেইনে খুব উপকারী।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/exercises5"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView4" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৬.\n\n মনকে চিন্তামুক্ত রেখে বালিশ ছাড়া চিৎ হয়ে হাত-পা ছড়িয়ে শুয়ে শবাসন করতে হয়। সকালে ঘুম ভাঙলে লাফিয়ে বিছানা থেকে না উঠে কিছুক্ষণ শবাসন করুন। এতে শক্তি ও আত্মবিশ্বাস বাড়ে। প্রতিদিন আধঘন্টা শবাসন করলে মেরুদণ্ড ভাল থাকে, অনেক পরিশ্রম ও মানসিক চাপ সহ্য করা যায় এবং দেহের যে কোনো ব্যথা ও লুকানো সমস্যা দূর হয়। উল্লেখ্য, মেরুদণ্ড ও পাঁজরের হাড়ের মজ্জা থেকে বেশির ভাগ রক্ত উৎপন্ন হয়।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/exercises6"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView5" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৭.\n\n সকালে নাস্তার আগে আরও দু’টি যোগাসন করুন : পবনমুক্তাসন ও ভুজঙ্গাসন। রাতে খাবার হজম হওয়ার সময়ে পেটে জমে ওঠা বায়ু যাবতীয় রোগের এক-তৃতীয়াংশের জন্য দায়ী। ওপরের দু’টি আসন পেট বায়ুমুক্ত করে ও হজমশক্তি বাড়ায়। পবনমুক্তাসন হাঁপানি, পিঠ ও কোমর ব্যথা এবং বহুমুত্র বা ডায়াবিটিস রুগীর জন্যও উপকারী। ভুজঙ্গাসনও সবরকম পিঠ ও কোমর ব্যথা, উচ্চ রক্তচাপ এবং স্ত্রীরোগের উপশম করে। খাওয়ার পরে বজ্রাসন ছাড়া আর কোনো যোগাসন করা যায় না। বজ্রাসন হজম ও সুনিদ্রার সহায়ক এবং কোমর থেকে পা পর্যন্ত দেহাংশ মজবুত রাখে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/exercises7"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView6" />
+
+</LinearLayout>
+</ScrollView>

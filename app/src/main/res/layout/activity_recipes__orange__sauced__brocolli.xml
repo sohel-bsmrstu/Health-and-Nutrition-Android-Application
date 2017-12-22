@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="অরেঞ্জ চিকেন উইথ ব্রকল \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="উপকরণ :"
+            android:textSize="50dp"
+            android:textAlignment="center"
+            android:id="@+id/recipes"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text" />
+
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="২ চামড়া ও হাড় ছাড়া মুরগির বুকের মাংস, ছোট টুকরা করে কাটা
+\n ১ টেবিল চামচ মাখন
+\n ১/৪ কাপ চিকেন স্টক
+\n ৩ টেবিল-চামচ মধু
+\n 2 কোয়া রসুন বাটা
+\n ১ টেবিল চামচ কমলার খোসা কুচি
+\n ১/৪ কাপ তাজা কমলার রস
+\n ১/৪ চা চামচ আদা বাটা
+\n ১ চিম্টি রেড চিলি ফ্লেক্স
+\n ১ চা চামচ সাদা তিল , ঐচ্ছিক
+\n ১ ভাপানো ব্রোকলি টুকরো করে কাটা
+\n ১ ভাপানো গাজর টুকরো করে কাটা"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple1"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text1" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="রেসিপি পদ্ধতি : অরেঞ্জ চিকেন উইথ ব্রকলি"
+            android:textAlignment="center"
+            android:textSize="25dp"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="১। চিকেন গুলো একটু লবন মেখে নিন। এবার মিডিয়াম হিটে চুলায় বাটার গলিয়ে নিয়ে তাতে চিকেন গুলো হালকা বাদামী হওয়া পর্যন্ত (৮-১০ মিনিট ) ভাজুন।
+
+\n\n ২। এবার চিকেন স্টক, মধু, রসুন কুচি, কমলার খোসা কুচি ,কমলার রস, আদা বাটা ১ চিম্টি রেড চিলি ফ্লেক্স একসাথে মিলিয়ে নিন। চিকেন হয়ে গেলে ওই তেলেই মিশ্রণ টি ঢেলে দিয়ে দিন।
+
+\n\n ৩। আচ কমিয়ে দিন , বার বার নাড়তে থাকুন যতক্ষণ সস ঘন না হয়। তারপর এতে ব্রকলি , গাজর ও চিকেন দিয়ে নাড়তে থাকুন।
+
+\n\n ৪। সস দিয়ে চিকেন ও ব্রকলি কোট হয়ে গেলে নামিয়ে নিন। গরম গরম ফ্রায়েড রাইসের সাথে পরিবেশন করুন। উপর দিয়ে সাদা তিল ছড়িয়ে দিন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+
+    </LinearLayout>
+</ScrollView>

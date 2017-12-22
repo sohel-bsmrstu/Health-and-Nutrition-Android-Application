@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp">
+
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="সাধারণ পুষ্টি টিপস"
+        android:textSize="20dp"
+        android:id="@+id/button"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView1" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="শিশুদের জন্য পুষ্টি টিপস"
+        android:textSize="20dp"
+        android:id="@+id/button2"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView2" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="মহিলাদের জন্য পুষ্টি টিপস"
+        android:textSize="20dp"
+        android:id="@+id/button3"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"
+        android:layout_gravity="center_horizontal" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView3" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="পুরুষদের জন্য পুষ্টি টিপস"
+        android:textSize="20dp"
+        android:id="@+id/button4"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"
+        android:layout_gravity="center_horizontal" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView4" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="সহজ পুষ্টি টিপস"
+        android:textSize="20dp"
+        android:id="@+id/button5"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"
+        android:layout_gravity="center_horizontal" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView5" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="চুলের জন্য পুষ্টি টিপস"
+        android:textSize="20dp"
+        android:id="@+id/button6"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"
+        android:layout_gravity="center_horizontal" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView6" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="ত্বকের জন্য পুষ্টি"
+        android:textSize="20dp"
+        android:id="@+id/button7"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"
+        android:layout_gravity="center_horizontal" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView7" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="রক্তাল্পতা রোগীদের জন্য পুষ্টি টিপস"
+        android:textSize="20dp"
+        android:id="@+id/button8"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"
+        android:layout_gravity="center_horizontal" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView8" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="ডায়াবেটিস রোগীদের জন্য পুষ্টি টিপস"
+        android:textSize="20dp"
+        android:id="@+id/button9"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"
+        android:layout_gravity="center_horizontal" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView9" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="ওজন লাভের জন্য পুষ্টি টিপস "
+        android:textSize="20dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"
+        android:id="@+id/button10"
+        android:padding="5dp"
+        android:layout_gravity="center_horizontal" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView10" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="উচ্চ রক্তচাপ রোগীদের জন্য পুষ্টি টিপস"
+        android:textSize="20dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"
+        android:id="@+id/button11"
+        android:padding="5dp"
+        android:layout_gravity="center_horizontal" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView11" />
+</LinearLayout>
+</ScrollView>

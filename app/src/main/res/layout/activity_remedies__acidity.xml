@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="অম্লতা জনিত সমস্যার সহজ সমাধান \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস : \n\n ১*অম্লতা প্রতিকারের জন্য এক কাপ ভ্যানিলা আইসক্রিম অথবা এক গ্লাস ঠান্ডা দুধ পান করুন।
+\n ২*কাজুবাদাম খান যা অম্লতা উপসর্গ দূর করে
+\n ৩*তুলসী পাতা চিবিয়ে খেলে গ্যাস্ট্রিক অ্যাসিড থেকে পরিত্রান পাওয়া যায়
+\n ৪*কলা, তরমুজ এবং শশার অম্লতা এবং বুক জ্বলাপোড়ার বিরুদ্ধে প্রতিরক্ষামূলক ক্রিয়া আছে
+\n ৫*খাওয়ার আগে একটি লেবুর রস ও অধা চামচ চিনি এক গ্লাস পানিতে মিশিয়ে পান করলে অম্লতা উপশম হয়
+\n ৬*পেটে অ্যাসিড ভারসাম্য বজায় রাখার জন্য প্রচুর পরিমাণে পানি (প্রতিদিন অন্তত ৬ থেকে ৮ গ্লাস) ও অন্যান্য তরল পান করুন
+\n ৭*কাঁচা রসুন খাবারে খুব উপকারী, এটা অম্লতার জন্য একটি কার্যকর প্রতিকারও
+\n ৮*খাবার পর কিছু সময়ের জন্য অঙ্গবিন্যাস উপরমুখী রাখুন যা পাকস্থলীর অর্ধপরিপাককৃত খাবার অন্ননালীতে আসা থেকে বিরত রাখে|"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+</LinearLayout>
+</ScrollView>

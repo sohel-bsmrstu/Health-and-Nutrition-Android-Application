@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="মুখের ঘা দূর করার উপায় \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ১. যষ্টিমধু\n\n  মুখের ঘা সারাতে যষ্টিমধু বেশ কার্যকর। এক টেবিল চামচ যষ্টিমধু দুই কাপ পানিতে দুই থেকে তিন ঘন্টা ভিজিয়ে রাখুন। এটি দিয়ে দিনে কয়েকবার কুলকুচি করুন। যষ্টিমধুর অ্যান্টি-ইনফ্লামেটরী এবং অ্যান্টি-মাইক্রোবিয়াল উপাদান মুখের ঘা ভাল করে থাকে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ২. টি ব্যাগ\n\n খুব সহজ ঘরোয়া উপায়ে মুখের ঘা দূর করার আরেকটি উপায় হল টি ব্যাগ। এটি দ্রুত ব্যথা এবং ইনফ্লামেশন দূর করে দিয়ে থাকে। একটি টি ব্যাগ ঠান্ডা পানিতে ভিজিয়ে সেটি ঘায়ের স্থানে লাগান। এটি সাথে সাথে আপনার ব্যথা কমিয়ে দিয়ে দিবে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple3"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView2" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৩. নারকেল তেল\n\n সহজলভ্য নারকেল তেল দিয়ে মুখের ঘা দূর করা সম্ভব। একটি তুলোর বলে নারকেল তেল লাগিয়ে সেটি মুখের ঘায়ের স্থানে লাগান। নারকেল তেলের অ্যান্টি মাইক্রোবিয়াল উপাদান ঘা সারিয়ে তুলতে সাহায্য করবে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple4"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView3" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৪. তুলসি\n\n কয়েকটি তুলসি পাতাসহ পানি দিনে তিন থেকে চারবার পান করুন। এটি দ্রুত মুখের ঘা প্রতিরোধ করবে এবং মুখে ঘা হওয়ার প্রবণতা কমিয়ে দিবে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple5"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView4" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৫. বেকিং সোডা\n\n এক চা চামচ বেকিং সোডা অল্প পানিতে মিশিয়ে পেস্ট তৈরি করে নিন। এই পাতলা পেস্টটি মুখের ঘায়ের স্থানে লাগিয়ে নিন। এটি দিনে কয়েকবার করুন। এছাড়া বেকিং সোডা সরাসরিই মুখের ঘায়ের স্থানে লাগাতে পারেন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple6"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView5" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৬. মধু\n\n একটি তুলোর বলে মধু লাগিয়ে নিন। এবার এটি মুখের ঘায়ের স্থানে লাগান। এছাড়া মুখের ঘায়ের স্থানে গ্লিসারিন, ভিটামিন ই অয়েল লাগাতে পারেন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple7"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+</LinearLayout>
+</ScrollView>

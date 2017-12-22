@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="রক্তাল্পতা রোগীদের জন্য পুষ্টি টিপস"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="21dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ১ . ভিটামিন: \n\n ভিটামিন-এ সমৃদ্ধ খাবারের পরিমাণ বাড়াতে হবে। কারণ ভিটামিন এ ঘাটতি হলে রক্তাল্পতা দেখা দিতে পারে। \n\n ভিটামিন এ-এর প্রধান উৎস: \n\n গাজর, মিষ্ঠিকুমড়া, মিষ্ঠিআলু, পালনশাক, আপেল, আনারস, রসুন, সামুদ্রিক মাছ, কমলালেবু, গরুর গোশত, দুধ, সরিষা শাক, পুদিনা, মটর শুটি, শালগম, টমেটো, পেঁপে, ইত্যাদি।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ২. খাদ্য গ্রহণের অভ্যাস:\n\n প্রধান খাবারের অন্তত এক ঘটার মধ্যে ( আগে বা পরে ) চা বা কফি সেবন থেকে বিরত থাকা ভাল। কারণ ফ্যাফেইন আয়রন শোসনে বাঁধা সৃষ্টি করে। কম বয়সের ছেলে মেয়েদের চা কফি সেবন করা উচিত নয়। দুগ্ধজাত দ্রব্য এবং দুধ প্রধান খাবারের মধ্যবর্তবতী সময় গ্রহণ করা উচিত। কারণ প্রধান খাবারে সঙ্গে গ্রহণ করলে দুধের মধ্যে বিদ্যমান ক্যালশিয়াম আয়রণ শোসনে বাঁধা সৃষ্টি করে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৩. আয়রণ সমৃদ্ধ খাদ্য:\n\n ডিমের কুসুম, গাঢ় সবুজ শাক, কিসমিস, মুরগির মাংস, সিম, মুসুর ডাল, ছোলা, কলিজা, মাছ, চিংড়ি মাছ, লাল আটা, লাল চাল, ঝোলা গুড়, টমেটো, মুগডাল, যবের ছাতু, সামুদ্রিক মাছ, ইতাদি।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple3"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView2" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৪. প্রতি দিনের অভ্যাস:\n\n ১.	প্রতিদিন সকালে চিনি ছাড়া বড় এক পেয়ালা বিটের রস পান করা
+
+
+\n\n ২.	স্বল্প সময় সূর্যস্নায়ু
+
+
+\n\n ৩.	রাতের খাবারের পরে চা চামচের এক চামচ মধুর সাথে একটি পাকা কলা খাওয়া
+
+
+\n\n ৪.	দিনে তিনবার তিন গ্লাস টমোটোর রস পান করা
+
+
+\n\n ৫.	প্রতিদিন সকালে এক পেয়ালা আপেলের রস পান করা
+
+
+\n\n ৬.	প্রতি বেলা মূল খাবারের সাথে লেবু ও কাঁচা মরিচ খাওয়া। এ ছাড়া খাদ্য তালিকায় নিয়মিত মাছ, মাংস ডাল, দানাদার শস্য, ফল, মূল, ডিম, শাক সবজি ইত্যাদি থাকা বাঞ্চনীয়।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple4"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView3" />
+    </LinearLayout>
+</ScrollView>

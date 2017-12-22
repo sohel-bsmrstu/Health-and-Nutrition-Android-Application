@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="সর্দি-ঠান্ডার ঘরোয়া নিরাময়  \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="প্রতিকার - \n\n ১. রাতে শোয়ার আগে সরিষার তেল বা ঘি হালকা গরম করে শুঁকলে সর্দি-ঠান্ডা দূর হয় এবং প্রতিরোধ করে।
+\n ২. রাতে খাবার সাথে রসুন খেলেও সর্দি-ঠান্ডা দূর হয়।
+\n ৩. সকালে ৪টি তুলসী পাতা এবং ৪টি গোল মরিচ খেলে ঠান্ডা লেগে আসা জ্বর উপশম হয়।
+\n ৪. পুদিনাপাতা, তুলসী পাতা, কাঁচা আদা, মধু মিশিয়ে খেলে ঠান্ডা লাগা দ্রুত ভালো হয়। "
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text=" প্রতিরোধ\n\n ১. যাঁদের ঠান্ডা লেগেছে তাদের কাছ থেকে দূরে থাকুন। কারণ এর ভাইরাস নিঃশ্বাসের সঙ্গে, এমনকি হাতের মাধ্যমেও ছড়ায়।
+\n ২. পর্যাপ্ত খাওয়া-দাওয়া করলে ও ঘুমালে শরীরে রোগ-প্রতিরোধক্ষমতা বাড়ে।
+\n ৩. আপনার ঘরের তাপমাত্রা বেশি শুষ্ক করবেন না, বেশি আর্দ্রও করবেন না। এতে রোগ-প্রতিরোধে সক্ষম হওয়া যায় সহজেই।
+\n ৪. নিয়মিত লেবু খান। লেবুতে আছে প্রচুর পরিমানে ভিটামিন সি, যা ঠান্ডা লাগা প্রতিরোধ করে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple3"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView2" />
+</LinearLayout>
+</ScrollView>

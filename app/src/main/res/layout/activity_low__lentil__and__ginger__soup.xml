@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="টমেটো স্যুপ \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="উপকরণ :"
+            android:textSize="50dp"
+            android:textAlignment="center"
+            android:id="@+id/recipes"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text" />
+
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টমেটো বড় ৩ টি, ভিনেগার ২ চা চামচ, পেঁয়াজ কুচি ১ টি, সাদা গোলমরিচ গুঁড়া ১/৪ চা চামচ, তেল ১ টেবিল চামচ, ডিমের সাদা অংশ ৩ টি, চিকেন স্টক ৫ কাপ, চিনি ১/২ চা চামচ, লবণ পরিমাণমতো, সয়াসস ১ টেবিল চামচ, ধনেপাতা কুচি।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple1"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text1" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="রেসিপি পদ্ধতি : টমেটো স্যুপ"
+            android:textAlignment="center"
+            android:textSize="25dp"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="ফুটানো পানিতে টমেটো দিয়ে দিন। পাতলা খোসা ফেটে গেলে টমেটো তুলে খোসা ছাড়িয়ে নিয়ে টুকরা করুন। এবার একটি পাত্রে তেল গরম করে পেঁয়াজ ভাজতে থাকুন। একটু পরে এতে চিকেন স্টক, সয়াসস, ভিনেগার, গোলমরিচ, পরিমানমতো লবণ ও চিনি দিন। ফুটে উঠার পরে মৃদু আঁচে ১০ মিনিট চুলায় রেখে দিন। এরপর স্যুপে ডিমের সাদা ঢেলে নেড়ে দিন। পরে টমেটো দিয়ে ৩ মিনিট মৃদু আঁচে ফুটিয়ে নিন। চুলা থেকে নামিয়ে গরম গরম পরিবেশন করুন মজাদার এগ টমেটো স্যুপ।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" /></LinearLayout>
+</ScrollView>

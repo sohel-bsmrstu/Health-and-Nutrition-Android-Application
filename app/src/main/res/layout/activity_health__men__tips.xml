@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="পুরুষদের জন্য স্বাস্থ্য টিপস"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="21dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস-১: \n\nযদি নিয়মিত পুষ্টিকর খাবার খান এবং রাতের ঘুম ঠিক রাখেন, তাহলে আপনি তাড়াতাড়ি আপনার স্বাস্থ্য মোটা করতে পারবেন। না ঘুমাতে পারলে আপনার শরীর ক্যালরী ধরে রাখতে পারে না। রাতে তাড়াতাড়ি খাওয়া শেষ করুন এবং তাড়াতাড়ি ঘুমিয়ে পড়ুন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/men"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস-২: \n\nএকটা নিদিষ্ট সময় ধরে খাবেন। সকালে ঘুম থেকে উঠে এক ঘন্টার মধ্যে সকালের নাস্তা শেষ করুন। সকালে প্রচুর পরিমাণে খেয়ে নিতে পারেন। হ্যাম বার্গার, ভাজা খাবার, চিকেন ব্রেস্ট খেলেও ক্ষতি নেই।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/men2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস-৩: \n\nসফ্ট ড্রিংকস্ এবং ফ্যাটি খাবার খেলে স্বাস্থ্য মোটা হয়। এতে বেশি পরিমানে ইন্সুলিন থাকে। ইন্সুলিন হরমোন তৈরি করে। যার সাহায্যে শরীরে কার্বোহাইড্রেট, প্রোটিন এবং ফ্যাট জমে। যখন ফ্যাটি ফুডস্ খাবেন, তখন পানি পান করুন; সফ্ট ড্রিংকস্ নয়। এমনকি ডায়েট সফ্ট ড্রিংকস্ও নয়। এটা খেলে আপনি ফ্যাটি ফুড খেতে পারবেন না।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/men3"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView2" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+           android:text="টিপস-৪: \n\nএনার্জি ফুড খেলেও আপনি মোটা হবেন। শরীরে যদি এনার্জি ফুড না থাকে তাহলে শরীরে শক্তিই থাকে না মোটা হওয়া তো দূরের কথা। উদাহরণে বলি: আপনি কখনো ব্যাটারিতে ল্যাপটপ কম্পিউটার চালাতে পারবেন না যদি প্লাগ না দেন। শরীরও তার ব্যতিক্রম নয়।"            android:id="@+id/men4"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView3" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Getting enough nutrition is crucial. “It’s more important than anything else except maybe sleep,” Lamm says. “Focus on nutrients rather than calories,” and eat a variety of healthy foods. “You can’t achieve optimum nutrition with limited choices."
+            android:id="@+id/men5"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView4" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস-৫: \n\nটেনশনমুক্ত থাকুন। নিয়মিত ব্যায়াম করুন। ব্যায়াম করলে ক্ষুধা বেড়ে যায় টেনশন দূর করে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/men6"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView5" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="টিপস-৬: \n\nপ্রচুর ফল খান। ফল পুষ্টিকর খাবার এতে প্রচুর ক্যালরি পাওয়া যায়। প্রতিদিন ফল এবং ফলের রস খান। ফলের তৈরি বিভিন্ন সিরাপ, কুবিথ, গাম, জ্যাম, জ্যালি খান এতে ফ্যাট আছে যা আপনার স্বাস্থ্য মোটা করবে।"
+            android:id="@+id/men7"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView6" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস-৭: \n\nএ্যালকোহল পান করলে শরীর মোটা হয়। এটা আপনার মাংশপেশীতে হরমোন তৈরি করে। আপনার শরীরে যখন অতিরিক্ত ক্যালরির প্রয়োজন হয় দিনের শেষে সন্ধ্যার দিকে তখন পরিমাণমত (অল্প পরিমাণ) এ্যালকোহল পান করুন। এ্যালকোহলে প্রচুর ক্যালরি পাওয়া যায়। রাতে এ্যালকোহল পান করে তাড়াতাড়ি রাতের খাবার সেরে ঘুমিয়ে পড়ুন। তবে এই নয় যে, আপনি একেবারে বেশী পরিমাণে এ্যালকোহল পান করে মাতাল হবেন। তাতে কিন্তু লাভে চেয়ে ক্ষতির পরিমাণ বেশী হবে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/men8"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView7" />
+    </LinearLayout>
+</ScrollView>

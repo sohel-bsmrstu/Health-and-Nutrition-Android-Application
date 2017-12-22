@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="চিলি প্রন \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="উপকরণ :"
+            android:textSize="50dp"
+            android:textAlignment="center"
+            android:id="@+id/recipes"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text" />
+
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="চিংড়ি – ২০০ গ্রাম(মাথা ছাড়িয়ে পরিষ্কার করে ধুয়ে রাখা)
+\n ডিম – ১ টি
+\n কর্ণ ফ্লাওয়ার – পরিমান মতো
+\n ক্যাপসিকাম – ১ টি ( লম্বা টুকরা করা )
+\n পেঁয়াজ টুকরা করা – ১ টি
+\n আদা কুচানো – আধা চা চামচ
+\n রশুন কুচানো – আধা চা চামচ
+\n কাঁচা মরিচ বাটা – আধা চা চামচ
+\n টমেটো কেচাপ – আধা চা চামচ
+\n অয়েস্টার সস – আধা চা চামচ
+\n সাদা ভিনেগার – আধা চা চামচ
+\n আদা ও রশুন বাটা – ১ চা চামচ
+\n গাজর কুচি – ছোট ১ টি
+\n তেল – পরিমান মতো
+\n লবন – স্বাদ মতো
+\n চিনি – অল্প
+\n পেঁয়াজ পাতা কুচি – সাজাবার জন্য"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple1"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text1" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="রেসিপি পদ্ধতি : চিলি প্রন"
+            android:textAlignment="center"
+            android:textSize="25dp"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="-কর্ণ ফ্লাওয়ারে ডিম মিশিয়ে মসৃণ ব্যাটার তৈরি করুন। এর ভেতর আদা, রসুন বাটা ও লবন মেশান। এই মিশ্রণের ভেতর চিংড়ি দিয়ে এক ঘণ্টা ম্যারিনেট করে রাখুন।
+\n\n -এক ঘণ্টা পর গরম তেলে ম্যারিনেট করা চিংড়িগুলো ভেজে তুলে রাখুন।
+\n\n -এবার অন্য একটি কড়াইতে ২ চা চামচ তেল গরম করুন। তেল গরম হলে পেঁয়াজ টুকরা ও ক্যাপসিকাম দিন। একটু নাড়াচাড়া করে এর ভেতর গাজর কুচি, আদা কুচি ও রশুন কুচি দিয়ে ভাল মতো মিশিয়ে নিন। এরপর কাঁচামরিচ বাটা দিয়ে একটু কষিয়ে নিন।
+\n\n -তেল বের হতে শুরু করলে টমেটো সস ও অয়েস্টার সস দিয়ে দিন। এরপর ভেজে রাখা চিংড়ি এর ভেতর দিয়ে ভালো করে মিশিয়ে নিন। চিংড়ি ও সবজীর সাথে সব মসলা ভাল মতো মিশে গেলে এর ভেতর সাদা ভিনেগার ও সামান্য চিনি দিন।
+\n\n -কিছু সময় নাড়াচাড়া করে সারভিং ডিশে ঢেলে পেঁয়াজ পাতা কুচি দিয়ে সাজিয়ে পরিবেশন করুন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+
+
+    </LinearLayout>
+</ScrollView>

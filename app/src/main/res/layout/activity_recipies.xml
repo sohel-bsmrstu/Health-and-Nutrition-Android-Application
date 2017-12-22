@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp">
+
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="হার্ট সুস্থ রেসিপি "
+        android:textSize="20dp"
+        android:id="@+id/button"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView1" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="কম ফ্যাট রেসিপি "
+        android:textSize="20dp"
+        android:id="@+id/button2"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView2" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="প্রোটিন সমৃদ্ধ রেসিপি "
+        android:textSize="20dp"
+        android:id="@+id/button3"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"
+        android:layout_gravity="center_horizontal" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView3" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="উচ্চ ক্যালসিয়াম রেসিপি"
+        android:textSize="20dp"
+        android:id="@+id/button4"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"
+        android:layout_gravity="center_horizontal" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView4" />
+
+</LinearLayout>
+</ScrollView>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="ত্বকের জন্য পুষ্টি"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="21dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ১ . ফল-মূল\n\n নিয়মিত ফলমূল বিশেষ করে ভিটামিন-সি যুক্ত ফল ফলাদি খেলে ত্বক সজীব থাকে। পেয়ারা, আনারস, পেঁপে, নানান রকম বেরি জাতীয় ফল ইত্যাদি ফল ত্বককে ভালো রাখে এবং বয়সের ছাপকে দূরে রাখতে সাহায্য করে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ২. ব্রোকলী\n\n ব্রোকলীতে প্রচুর পরিমাণে ভিটামিন-সি, ই এবং অ্যান্টি অক্সিডেন্ট আছে যা ত্বকের গভীর থেকে পুষ্টির যোগান দেয়। অন্যদিকে ভিটামিন-ই সূর্যের ক্ষতিকর অতি বেগুনী রশ্মি থেকে ত্বককে কিছুটা রক্ষাও করে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৩. বাদাম\n\n বাদাম ভিটামিন-ই এর একটি অন্যতম উৎস। সালাদে, রান্নায় অথবা স্নাক্স হিসাবে নিয়মিত খাবারের তালিকায় বাদাম রাখলে এর ভিটামিন-ই ত্বককে আরও সজীব ও মোহনীয় করে তুলবে, যা আপনাকে দেবে প্রাণবন্ত উজ্জলতা।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple3"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView2" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৪. গাজর\n\n গাজরে প্রচুর পরিমাণে বিটা ক্যারোটিন আছে যা শরীরে গিয়ে ভিটামিন-এ তে পরিণত হয়। আর এই ভিটামিন-এ আপনার ত্বককে রাখবে সজীব ও উজ্জ্বল। প্রতিদিন একটি করে গাজর ত্বকের টিস্যু গুলোকে মেরামত করে এবং ক্ষতিকর সূর্যের রশ্মি থেকে ত্বককে রক্ষা করতে সহায়তা করে। কাঁচা অথবা রান্না করে দুভাবেই গাজর খেতে পারেন প্রতিদিন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple4"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView3" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৫. পানি\n\n বয়সের ছাপ থেকে বাঁচতে প্রতিদিন অন্তত দেড় থেকে দুই লিটার পানি বা পানি যুক্ত খাবার খাওয়া উচিত। পানি শরীর থেকে বিষাক্ত উপাদান ঘামের মাধ্যমে বের করে দেয়। পর্যাপ্ত পানি পেলে ত্বকের কোষে পানি পৌঁছায় এবং ত্বক সজীব দেখায়। পরিমিত পানি খেলে ব্রণের উপদ্রবও কমে যায়।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple5"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView4" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৬. কুমড়ার বীজ\n\n মিষ্টি কুমড়া রান্না করার আগে আমরা যেই বীজগুলো ফেলে দেই সেগুলো ত্বকের জন্য অত্যন্ত উপকারী। মিষ্টি কুমড়ার বীজে প্রচুর পরিমাণে জিঙ্ক থাকে যা ত্বকের কোষ গুলোকে সজীব করে তোলে এবং ভেতর থেকে পুষ্টি যোগায়। কুমড়ার বীজ কড়াইয়ে হালকা ভাজি করে খোসা ছাড়িয়ে নিয়মিত খেতে পারলে ত্বক থাকবে সজীব ও প্রাণবন্ত।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple6"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView5" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৭. মাছ\n\n ওমেগা-৩ ফ্যাট সমৃদ্ধ মাছ ত্বকের জন্য খুবই উপকারী। এই মাছ একদিকে যেমন ত্বকের কোষ সজীব রাখে অন্যদিকে ত্বককে ক্যান্সারের হাত থেকে রক্ষা করে। তবে অতিরিক্ত তেল দিয়ে ভাজা মাছ না খেয়ে সেদ্ধ, গ্রিল করা অথবা সেঁকা তেলে ভাজা মাছ খাওয়ার চেষ্টা করুন।
+
+\n\n ত্বকের বাহ্যিক সৌন্দর্য নির্ভর করে আভ্যন্তরীণ সুস্থতার উপর। ত্বক ভেতর থেকে স্বাস্থ্যজ্জ্বল না হলে প্রচুর প্রসাধনী ব্যবহার করেও সৌন্দর্য্যকে ফুটিয়ে তোলা যায় না। আর তাই যেই খাবার গুলো ত্বকের পরম বন্ধু সেগুলো নিয়মিত খান এবং প্রচুর পানি পান করুন। তাহলে আপনার ত্বক কোনো রকমের প্রসাধন ছাড়াই হয়ে উঠবে উজ্জ্বল ও লাবণ্যময়।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple7"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+
+</LinearLayout>
+</ScrollView>

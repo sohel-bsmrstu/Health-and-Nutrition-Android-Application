@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="মহিলাদের জন্য স্বাস্থ্য টিপস"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="21dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ১. \n\nএই বৃদ্ধি পদ্ধতিটি সবচেয়ে কার্যকর উপায়। এই পদ্ধতিতে ইঞ্জেকশন দ্বারা মানবদেহে হরমোন বৃদ্ধি করা হয়, কিন্তু এটি সম্পূর্ণ বেআইনি যার কারণে একজন ডাক্তার কখনই আপনাকে এরকম কিছু প্রেস্ক্রাইব করবে না, এবং এটি খুবই ব্যয়বহুল যার কারণে এটি সাজেশন করা উচিত হবে না।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/women"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ২. \n\nদুধ পান আপনাকে লম্বা হওয়ায় অনেক সাহায্য করবে কারণ ক্যালসিয়াম আপনার শরীররের হাড়ের বৃদ্ধি ঘটায়। আরেকটা ব্যাপার যা আমাদের দেশে নেই সেটা হল আমেরিকায় তাদের গরুর মধ্যে বিভিন্ন হরমোন ইনজেকশন দেওয়া হয় যার মাধ্যমে - হরমোনের মাত্রা বৃদ্ধি হয় এবং সেই প্রকিয়াজাতকরণ দুধ হয় সাধারণ দুধ এর বিকল্প।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/women2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৩. \n\nনিয়মিত কিছু নির্দিষ্ট ব্যায়াম (ওজন উদ্ধরণ) হরমোন (HGH) বৃদ্ধি করে। এটি বৃদ্ধি সংক্রান্ত হরমোনের মাত্রা আরও উন্নত করার জন্য বহুল পরিচিত এবং পদ্ধতি খুবই কার্যকর। আর অতিরিক্ত পেশী আপনাকে আরো সাহয্য করবে আকর্ষণীয় চেহারার অধিকারী হতে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/women3"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView2" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৪. \n\nতীব্র sprinting ব্যায়াম মানব বৃদ্ধির হরমোনে একটি বিস্ফোরণ ঘটায় এছাড়াও আপনার হরমোনকে আরও উন্নত করে। আসলে যে কোনো কঠিন শারীরিক ব্যায়াম আপনাকে লম্বা হতে সাহায্য করবে। তবে অবশ্যই সেটা ২১ বছর বয়স হওয়ার পর।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/women4"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView3" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৫. \n\nNiacin supplementation : Niacin একটি প্রাকৃতিক ভিটামিন নামক ভিটামিন B3। একটি গবেষণা থেকে জানা যায়, ৫০০গ্রাম নিয়াসিন নেওয়া মানুষের থেকে সাধারণ মানুষের বৃদ্ধি কম ঘটে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/women5"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView4" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৬. \n\nমানসিক চাপ কমান : স্ট্রেস বা মানসিক চাপ যা হচ্ছে আপনার লম্বা বৃদ্ধি হওয়ার ক্ষেত্রে একটি বাঁধা। যাতে আপনার হরমোনের মাত্রা কমে যায় এবং করটিসল উত্পাদিত হয়। ভিটামিন C সম্পূরকসমূহ যা করটিসল কমাতে জোর সহায়তা করে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/women6"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView5" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৭. \n\nঘুম : কমপক্ষে ৮ ঘন্টা ঘমানো । এটি সবচেয়ে সহজ এবং অনেক কার্যকরী উপায়। সঠিক এবং সুন্দর ভাবে ঘোমানো আপনার দেহের স্বাভাবিক বৃদ্ধি মাত্রা আরো বাড়িয়ে তোলে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/women7"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView6" />
+
+    </LinearLayout>
+    </ScrollView>

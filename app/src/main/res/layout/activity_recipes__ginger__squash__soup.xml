@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="বাটারনাট স্কোয়াশ স্যুপ \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="উপকরণ :"
+            android:textSize="50dp"
+            android:textAlignment="center"
+            android:id="@+id/recipes"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text" />
+
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="বাটারনাট স্কোয়াশ - একটি, খোসা ছাড়িয়ে বিচি বের করে, কিউব করে কাটা। অন্যথায় কুমড়ো ব্যবহার করতে পারেন।
+\n অলিভ অয়েল- এক চামচ
+\n আদা- আধা চামচ কুচি করা।
+\n ছোট পেঁয়াজ- একটি, কুচি করে কাটা
+\n রসুন- দুই কোয়া
+\n চিকেন ব্রথ- যেমন ঘনত্ব চান, আন্দাজমত
+\n দুধ- এক চতুর্থাংশ কাপ
+\n গোলমরিচ- এক চামচ, গুঁড়ো করা
+\n নুন- আন্দাজমত
+\n চিনি- এক চিমটে
+\n জিরে- এক চামচ
+\n বেজিল, রোজমেরি অথবা ধনেপাতা বা পুদিনা- কয়েকটি পাতা।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple1"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text1" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="রেসিপি পদ্ধতি : বাটারনাট স্কোয়াশ স্যুপ"
+            android:textAlignment="center"
+            android:textSize="25dp"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="পাত্রে অলিভ অয়েল দিয়ে জিরে ফোরণ দিন। একে একে রসুন, আদা, পেঁয়াজ দিয়ে কয়েক মিনিট নাড়ান। বাটারনাট স্কোয়াশ আর নুন দিয়ে নেড়ে চেড়ে অল্প আঁচে ঢেকে রাখুন। স্কোয়াশ নরম হয়ে এলে চিকেন ব্রথ দিয়ে ফোটান। স্কোয়াশ সেদ্ধ হয়ে গেলে আগুন বন্ধ করে দুধ মেশান, চিনি দিন একচিমটে। ঠান্ডা হয়ে গেলে গ্রাইন্ডারে বা মিক্সিতে মিহি করে পিষে নিন। স্যুপ তৈরি, পাত্রে ঢেলে গোলমরিচ এবং পাতা সাজিয়ে পরিবেশন করুন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+    </LinearLayout>
+</ScrollView>

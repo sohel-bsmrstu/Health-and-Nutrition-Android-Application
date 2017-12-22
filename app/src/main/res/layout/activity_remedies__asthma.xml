@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="এজমা প্রতিরোধের উপায় \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস:  \n\n ১. এলার্জিকারক বস্তু এড়িয়ে চলা। যেমন : ধুলো, বালি, ঘরের ঝুল, ধোঁয়া, ঝাঁঝালো গন্ধ ইত্যাদি থেকে দূরে থাকা।
+\n ২. ঘর বাড়িকে ধুলাবালু মুক্ত রাখার চেষ্টা করা। এ জন্য দৈনিক অন্তত একবার ঘরের মেঝে, আসবাবপত্র, ভিজা কাপড় দিয়ে মুছতে হবে। অথবা ভ্যাকিউম ক্লিনার ব্যবহার করা।
+\n ৩. ঘরে কার্পেট না রাখা।
+\n ৪. বালিশ, তোষক, ম্যাট্রেসে তুলা ব্যবহার না করে স্পঞ্জ ব্যবহার করা।
+\n ৫. শীতকালে যথাসম্ভব গরম পানিতে ওজু-গোসল করা।
+\n ৬. ধূমপান না করা।
+\n ৭. যেসব খাবারে এলার্জিক প্রতিক্রিয়া সৃষ্টি করে তা পরিহার করে চলা।
+\n ৮. ঠাণ্ডা খাবার, আইসক্রিম ইত্যাদি না খাওয়া।
+\n ৯. মানসিক চাপ, উৎকণ্ঠা, দুশ্চিন্তাকে ইতিবাচক মনোভাবে মানিয়ে চলা। কিংবা মানসিক চাপের কারণকে এড়িয়ে চলা।
+\n ১০. পেশাগত কারণে এজমা হলে চেষ্টা করতে হবে স্থান বা পেশা পরিবর্তনের।
+\n ১১. পরিশ্রম বা খেলাধুলার কারণে শ্বাসকষ্ট বাড়লে চেষ্টা করতে হবে পরিশ্রমের কাজ পরিহার করা।
+\n ১২. সব সময় ইতিবাচক চিন্তা করা। ইতিবাচক মন আপনাকে ভালো থাকতে সাহায্য করবে।
+\n ১৩. পরাগ রেণু পরিহারে সকাল-সন্ধ্যা বাগান এলাকায় বা শস্য ক্ষেতের কাছে না যাওয়া।
+\n ১৪. পরাগ রেণু এলাকা থেকে বাসায় ফিরে মাথার চুল ও কাপড় ধুয়ে ফেলা।
+\n ১৫. কুকুর-বিড়াল বাগান থেকে পরাগ রেণু বহন করতে পারে। এ জন্য নিয়মিত কুকুর-বিড়ালকে গোসল করানো প্রয়োজন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+</LinearLayout>
+</ScrollView>

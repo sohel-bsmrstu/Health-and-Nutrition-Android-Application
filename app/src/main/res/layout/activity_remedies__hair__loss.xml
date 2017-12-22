@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="চুল পড়া দূর করার উপায় \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ১ . অয়েল ম্যাসাজ\n\n চুলের বৃদ্ধির জন্য সবচেয়ে অপরিহার্য হচ্ছে ওয়েল ম্যাসাজ করা। নারিকেল তেল বা  আমন্ড তেল গরম করে ম্যাসাজ করলে চুল বৃদ্ধি পায় এবং এতে চুল শক্তিশালী ও পুষ্টি সমৃদ্ধ হয়।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ২. মেহেদি\n\n হেনা প্যাক যাতে মেহেদির সাথে আমলা, শিকাকাই ও ব্রাহ্মী মেশানো থাকে তা দই এর সাথে মিশিয়ে চুলে ব্যবহার করুন অথবা মেহেদি পাতার সাথে গোলাপ ফুল ও মেথি মিশিয়ে চুলে ব্যবহার করুন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple3"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView2" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৩.  গ্রিনটি ও ডিমের মাস্ক\n\n গ্রিনটি ও ডিমের মাস্ক ব্যবহার করলে চুল পড়া বন্ধ হওয়ার সাথে সাথে চুল কোমল ও উজ্জ্বল হয়। ডিমের কুসুমের সাথে ২ টেবিল চামচ গরম গ্রিনটি মেশান যতক্ষণ পর্যন্ত না একটি ঘন মিশ্রণ তৈরি হয়। মিশ্রণটি মাথায় দিয়ে ৩০ মিনিট রেখে ধুয়ে ফেলুন। গ্রিনটির অ্যান্টি অক্সিডেন্ট চুল পড়া বন্ধ করতে সাহায্য করবে এবং ডিম চুলকে মসৃণ করবে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple4"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView3" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৪. টাইট করে চুল বাঁধবেন না \n\n চুল খুব শক্ত করে বাঁধবেন না বা পনিটেইল করে বাঁধবেন না। এতে চুলের ফলিকল নষ্ট হয়। Mayo Clinic.com এর মতে, চুলের উপর বেশি চাপ পড়লে চুল পড়া বৃদ্ধি পায় এবং নতুন চুলের বৃদ্ধি বাঁধা প্রাপ্ত হয়। তাই যতটা সম্ভব চুল খোলা রাখার চেষ্টা করুন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple5"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView4" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৫. পুষ্টিকর খাবার খান\n\n চুল পড়া বন্ধ করতে পুষ্টিকর খাবার খাওয়া প্রয়োজন। আয়রন সমৃদ্ধ খাবার খেলে চুল পড়া বন্ধ হয় এবং চুলের উৎপাদন বৃদ্ধি পায়। ভিটামিন ও খনিজ উপাদান সমৃদ্ধ খাবার এবং ওমেগা ৩ ও ওমেগা ৬ ফ্যাটি এসিড সমৃদ্ধ খাদ্য হেয়ার ফলিকল কে পুষ্টি প্রদান করে চুলের বৃদ্ধিতে সাহায্য করে।
+চুল পড়ার জন্য স্ট্রেস অনেকাংশে দায়ী। যদি আপনি স্ট্রেসের সমস্যায় ভোগেন তাহলে স্ট্রেস কমানোর চেষ্টা করুন। পুষ্টিকর খাদ্য গ্রহণ ও নিয়মিত ব্যায়াম করলে আপনার শরীরের পুষ্টির ভারসাম্য ঠিক থাকবে, স্ট্রেস কমবে এবং চুলের উৎপাদন বৃদ্ধি পাবে ও চুল শক্তিশালী হবে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple6"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView5" />
+
+    </LinearLayout>
+</ScrollView>

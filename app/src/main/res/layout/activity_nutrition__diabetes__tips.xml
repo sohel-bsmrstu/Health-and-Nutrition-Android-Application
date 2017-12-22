@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="ডায়াবেটিস রোগীদের জন্য পুষ্টি টিপস"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="21dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ১)কিউয়ি-\n\n এই ফলটি বিদেশী হলেও আজকাল আমাদের দেশে সহজেই কিনতে মেলে। ডায়াবেটিস রোগীদের স্বাস্থ্যের জন্য খুবই ভাল একটি ফল এটি। এই ফলটি রক্তে চিনির মাত্রা কমাতে সাহায্য করে এবং শরীরকে সুস্থ রাখে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ২)কালোজাম-\n\n একজন সুগার রোগী একদম চিন্তামুক্তভাবে এই ফলটি খেতে পারেন। কালোজাম রক্তে চিনির মাত্রা নিয়ন্ত্রনে রাখতে সাহায্য করে। শুধু ফলই নয়, কালোজামের বীজকে গুঁড়ো করে দিনে একবার যদি হাফ চামচ খাওয়া যায় সেটিও ডায়াবেটিস নিয়ন্ত্রণে সহায়তা করে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৩)পেয়ারা-\n\n ডায়াবেটিস রোগীদের খাওয়ার জন্য অন্যতম একটি উপকারী হল হল পেয়ারা। পেয়ারার মধ্যে প্রচুর পরিমানে ভিটামিন ‘সি’ এবং ভিটামিন ‘এ’ আছে, যা সুগার রোগীদের স্বাস্থ্যের পক্ষে খুবই উপকারী। বিনা সংকোচে খেটে পারেন এই ফল।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple3"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView2" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৪)পেঁপে-\n\n কাঁচা ও পাকা পেঁপে ডায়াবেটিস রোগীদের জন্য খুবই উপকারী। এই ফলটিতেও বেশ ভাল পরিমানে ভিটামিন ‘সি’ থাকে। খিদে পেলে পেট ভরাতেও অনন্য এই খাবার। তবে খাবেন পরিমিত পরিমাণে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple4"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView3" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৫)তরমুজ-\n\n যত ইচ্ছা তত পরিমাণে যে ফলটি খেতে পারেন ডায়াবেটিস রোগীরা, সেটা হচ্ছে তরমুজ। খিদে মেটানো, শরীরের জন্য প্রয়োজনীয় পুষ্টি যোগানো ছাড়া পানি শূন্যতাও রোধ করে এই ফলটি।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple5"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView4" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৬) কামরাঙ্গা-\n\n আমাদের দেশি এই ফলটি ডায়াবেটিসদের রোগীদের জন্য আরও একটি উপকারী খাবার। খেতে পারেন নিঃসঙ্কোচে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple6"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+</LinearLayout>
+</ScrollView>

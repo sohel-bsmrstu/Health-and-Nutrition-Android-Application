@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text=" ইলিশ বিরিয়ানি  \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="উপকরণ :"
+            android:textSize="50dp"
+            android:textAlignment="center"
+            android:id="@+id/recipes"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text" />
+
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="ইলিশ মাছ ৮ টুকরা, বাসমতি/পোলাওর চাল ২ কাপ, পেয়াজ কুচি ১কাপ, টকদই ১/২ কাপ, নারিকেলের দুধ ১১/২কাপ, আদা বাটা ১ চামচ, জিরা ১ চামচ, চিনি ১/২ চা চামচ, লবন পরিমান মত, গরম মশলা গুড়া ১ চামচ, জয়ফল জয়ত্রি বাটা ১/৪ চা চামচ, আস্ত গোল মরিচ ১/২চা চামচ, কেওড়া জল ১ চা চামচ, ঘি ২/৩ চা চামচ, কাজু বাদাম ৭/৮টা, আলু বুখারা ৫/৬ট, তেল ১/২কাপ, হলুদ গুড়া ১ চামচ, মরিচ গুড়া ১চামচ, পানি পরিমানমত, দুধ ২ কাপ। "
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple1"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text1" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="রেসিপি পদ্ধতি :  ইলিশ বিরিয়ানি "
+            android:textAlignment="center"
+            android:textSize="25dp"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="# ইলিশ মাছ, টক দই, আদা বাটা, জিরা বাটা, লবন, চিনি, হলুদ, মরিচ গুড়া দিয়ে মেরিনেড করে ১/২ ঘন্টা রেখে দিন।
+\n\n # এবার প্যানে ২/৩ চামচ তেল দিয়ে তাতে ১/২ কাপ পেয়াজ কুচি দিয়ে ভাজতে হবে। পেয়াজ নরম হয়ে আসলে তাতে নারিকেল দুধ দিয়ে দিন, গরম হলে তাতে মাছ গুলো দিন, হালকা আচে রেখে দিন মাছ সেদ্ধ হতে, পানি শুকিয়ে আসলে নামিয়ে রাখুন।
+\n\n # এবার পোলাওর চাল/বাসমতি চাল ভালো করে ধুয়ে পানি ঝড়িয়ে নিন।
+\n\n # এবার পাত্রে বাকি তেল দিয়ে তাতে বাকি পেয়াজ দিয়ে ভালো করে বেরেস্তা করে নিতে হবে। বেরেস্তা উঠিয়ে সামান্য চিনি মাখিয়ে রাখুন।
+\n\n # এবার ওই তেলে চাল ভাল করে ভেজে নিন, তাতে ২ কাপ হালকা গরম পানি, দুধ দিয়ে দিন, গরম মশলা, জয়ফল জয়ত্রি বাটা গোল মরিচ, লবন দিয়ে ঢেকে দিন। চাল আধা সেদ্ধ হলে চুলা থেকে নামিয়ে নিয়ে সাবধানে চাল সরিয়ে সরিয়ে মাছ, আলু বুখারা, কাজু বাদাম, বেরেস্তা, ঘি, কেওড়া দিয়ে আবার চাল দিয়ে ঢেকে দিয়ে ঢাকনা দিন।
+\n\n # এবার আবার চুলায় ১০ মিনিট এর মত দমে রাখুন হালকা আচে।চাল সেদ্ধ হলে নামিয়ে গরম গরম পরিবেশন করুন ইলিশের বিরিয়ানি।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+    </LinearLayout>
+</ScrollView>

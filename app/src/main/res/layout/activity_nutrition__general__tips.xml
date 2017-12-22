@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="সাধারণ পুষ্টি টিপস"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="21dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ১. ডিম \n\n ডিম খুব পরিচিত খাবার৷ যা সর্বত্র পাওয়া যায়। ডিমের সাদা অংশে প্রোটিন থাকে। যা সুস্থ মাংস পেশি তৈরিতে সহায়ক। আকর্ষণীয় পেশি তৈরিতে যে ন’টি অ্যামিনো অ্যাসিড প্রয়োজন তা ডিমে প্রচুর পরিমাণে থাকে। এ ছাড়া ডিমে উচ্চমানের প্রোটিন ক্যালসিয়াম, জিংক, ও আয়রন এর মত মূল্যবান খনিজ পদার্থ থাকে। \n\n ডিমের কুসুমে ভিটামিন ই, কে, বি-১২, Riboflavin এবং ফলিক এসিড সহ বিভিন্ন ভিটামিন উপস্থিত থাকে। এই সব পুষ্টি মানবশরীরের পাকস্থলী সঞ্চালনে এবং শরীরের চর্বিকে শক্তিতে রূপান্তর করবে। স্বাস্থ্যকর পেশি নির্মাণের জন্য প্রতিদিন এক থেকে দু’টি ডিম খাদ্য তালিকায় রাখতে হবে। বিভিন্ন উপায়ে ডিম খাওয়া যেতে পারে৷ যা পেশি সুগঠনে সহায়তা করবে। সিদ্ধ ডিমে সাদা অংশ পেশি নির্মাণে সহায়ক।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ২. মুরগির সিনার মাংস\n\n চর্বিহীন পেশি পেতে অসাধারণ খাদ্য হল মুরগির সিনার মাংস। এটা চর্বিহীন প্রোটিনের একটি বড় উৎস৷ যা সহজেই পেশির টিস্যু এবং অতিরিক্ত শরীর চর্চার সময় ক্ষতিগ্রস্ত কোষ মেরামতে গুরুত্বপূর্ণ ভূমিকা রাখে। ভাজা মুরগির সিনার মাংস খাওয়ার মাধ্যমে শরীরের চর্বিহীন পেশি এবং সুস্থ বডি পাওয়ার দারুন সুযোগ থাকে।
+এছাড়া মুরগির মাংস সূপ এবং স্যালাডের সঙ্গে খেলে ভালো উপকার পাওয়া যায়৷ অবশ্যই মুরগি চামড়া ছাড়া খেতে হবে। কারণ চামড়াতে প্রচুর চর্বি থাকে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৩. দুধ\n\n দুধের উপকারিতার সকলের জানা৷ সুস্থ পেশি গঠনে দুধের ভূমিকা অতুলনীয়। দুধের মাঠা এবং ছানায় আছে দু’টি উচ্চমাত্রার প্রোটিন। মাঠার প্রোটিন দ্রুত অ্যামিনো অ্যাসিডকে বিভাজিত করে যা রক্তসঞ্চালন বৃদ্ধি করে। ছানা ধীরে ধীরে হজম হয় এবং শরীরকে একটি দীর্ঘ সময়ের জন্য ছোট পরিমাণে প্রোটিন সরবরাহ করে।
+দুধে প্রচুর পরিমাণে ভিটামিন, খনিজ, কার্বোহাইড্রেট ও ফ্যাট থাকে৷ যা পেশি নির্মাণে সহায়তা করে। প্রতিবার ব্যায়ামের পর এক গ্লাস সর পরা দুধ পান করতে হবে। কিছু সমীক্ষায় চকলেট দুধ পান করার পরামর্শ পাওয়া যায়৷ কারণ এতে কার্বোহাইড্রেট ও প্রোটিন থাকে। কিন্তু এটা মাঝে মাঝে খাওয়া উচিত।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple3"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView2" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৪. রুই মাছ\n\n মাছের মধ্যে রুই পেশি নির্মাণে সবচেয়ে ভালো খাবার বলে বিবেচনা করা হয়। রুই মাছ চর্বিহীন পেশি নির্মাণ করতে এবং এতে উচ্চমানের প্রোটিন থাকায় অন্যান্য সমন্বয় ফ্যাট কমাতে সহায়তা করে৷ কারণ এতে চেইন ওমেগা-৩ ফ্যাট, EPA এবং DHA ও ভিটামিন বি রয়েছে৷ এতে ম্যাগনেসিয়াম, সেলেনিয়াম, ক্যালসিয়াম, ও আয়রনের মত অন্যান্য পুষ্টি আছে৷ যা চর্বিহীন পেশি গঠনে এবং পুনরুদ্ধার করতে সাহায্য করে। সপ্তাহে এক থেকে দু’বার স্যালাড বা সবুজ শাকসবজির সঙ্গে ভাজা রুই মাছ খাওয়া যেতে পারে। মাছ পছন্দ না করলে মাছের তেল রান্নার সময় ব্যবহার করা যেতে পারে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple4"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView3" />
+</LinearLayout>
+</ScrollView>

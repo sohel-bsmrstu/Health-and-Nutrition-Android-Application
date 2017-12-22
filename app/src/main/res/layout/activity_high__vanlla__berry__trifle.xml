@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="ঢেঁড়স ভাজি  \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="উপকরণ :"
+            android:textSize="50dp"
+            android:textAlignment="center"
+            android:id="@+id/recipes"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text" />
+
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="ঢেঁড়স ৫০০ গ্রাম, ১টি মাঝারি ক্যাপসিকাম, ৬/৭ কোয়া রসুন, ১টি মাঝারি পেঁয়াজ, ৩/৪টি কাঁচামরিচ, ৪ টেবিল চামচ কর্ণফ্লাওয়ার, ১ টেবিল চামচ সয়াসস, ১/২ চা চামচ গোলমরিচ গুঁড়ো, ২ টেবিল চামচ মরিচগুঁড়ো, ১/২ চা চামচ স্টেটিং সল্ট, ২ টেবিল চামচ তেল, স্বাদমতো লবণ।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple1"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text1" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="রেসিপি পদ্ধতি : ঢেঁড়স ভাজি "
+            android:textAlignment="center"
+            android:textSize="25dp"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="ঢেঁড়সের বোঁটা কেটে নিয়ে দুই টেবিল চামচ কর্ণফ্লাওয়ার দিয়ে মাখিয়ে রাখুন। বাকি কর্ণফ্লাওয়ার এক কাপ পানিতে গুলে রাখতে হবে। ক্যাপসিকাম ফালি করে নিন।
+
+\n\n কড়াইতে তেল গরম করে ঢেঁড়সগুলো সোনালী করে ভেজে টিস্যু দিয়ে অতিরিক্ত তেল ঝরিয়ে নিন। দুই টেবিল চামচ তেল গরম করে পেঁয়াজ, রসুন, কাঁচামরিচ কুচি ও ক্যাপসিকাম দিয়ে হালকা ভাজুন।
+
+\n\n এরপর একটি বাটিতে সয়াসস, টেস্টিং সল্ট, গোলমরিচ গুঁড়ো, লবণ ও গোলানো কর্ণফ্লাওয়ার একসাথে মিশিয়ে কড়াইতে ঢেলে নিন। আঁচ কমিয়ে নাড়তে থাকুন মিশ্রণটি ঘন হয়ে এলে ঢেঁড়সগুলো দিয়ে ভালোভাবে নাড়তে হবে।
+
+\n\n এবার মরিচগুঁড়ো ছিটিয়ে গরম গরম পরিবেশন করুন।
+
+"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+
+</LinearLayout>
+    </ScrollView>

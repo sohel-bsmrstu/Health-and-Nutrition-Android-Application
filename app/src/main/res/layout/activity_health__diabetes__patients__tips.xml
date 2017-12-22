@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="ডায়াবেটিস রোগীদের জন্য স্বাস্থ্য টিপস "
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="21dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="১. সাদা চাল: \n\nসাদা চালের ভাত যত বেশি খাওয়া হয় তত বেশি টাইপ-২ ডায়াবেটিসের আশঙ্কা বেড়ে যায়। প্রায় তিন লাখ ৫০ হাজার মানুষের ওপর গবেষণায় দেখা গেছে প্রতিদিন সাদা চালের ভাত নিয়মিত খাওয়ার ফলে প্রায় ১১% টাইপ-২ ডায়বেটিসের ঝুঁকি বাড়ে। "
+            android:id="@+id/diabetes"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/diabetes1"
+            android:text="২. চাইনিজ খাবার: \n\nচাইনিজ খাবারে রয়েছে অনেক বেশি ফ্যাট, ক্যালরি, সোডিয়াম, কার্বোহাইড্রেট যা হুট করেই দেহের সুগারের মাত্রা অনেক বেশি বাড়িয়ে তোলে। বিশেষ করে অরেঞ্জ, সুইট অ্যান্ড সাওয়ার ধরনের খাবার ডায়াবেটিস রোগীদের জন্য অনেক বেশি তিকর।"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="৩. বোতলজাত ফলের জুস: \n\nস্বাস্থ্যের জন্য তিকর বলে সোডা বাদ দিয়ে ফলের জুস পান করেন? কিন্তু জেনে রাখুন বোতলজাত ফলের জুস পান করা এবং সোডা পান করার মধ্যে বিশেষ পার্থক্য নেই। কারণ ফলের জুসে রয়েছে প্রচুর পরিমাণে চিনি ও ক্যালরি যা ডায়াবেটিস রোগীদের জন্য মারাত্মক তিকর।"
+            android:id="@+id/diabetes3"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView2" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="৪. কলা ও তরমুজ: \n\nসবাই জানেন তাজা ফলমূল স্বাস্থ্যের জন্য অনেক বেশি স্বাস্থ্যকর। কিন্তু ডায়বেটিস রোগীদের জন্য তাজা সব ফল স্বাস্থ্যকর নয়। কলা ও তরমুজের মতো ফলে রয়েছে প্রচুর পরিমাণে প্রাকৃতিক চিনি যা রক্তে সুগারের মাত্রা বাড়ায়। তাই এই খাবারগুলো থেকে দূরে থাকাই ভালো।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/diabetes4"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView3" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="৫. রিফাইন্ড সিরিয়াল: \n\nসুইটেন্ড ব্রেকফাস্ট সিরিয়াল ধরনের খাবারগুলো ডায়াবেটিস রোগীদের জন্য মারাত্মক তিকর। এ ছাড়াও ইনস্ট্যান্ট ধরনের স্বাস্থ্যকর ওটমিলও ডায়াবেটিস রোগীদের তির কারণ হয়ে দাঁড়াতে পারে। ইন্টারনেট।"
+            android:id="@+id/diabetes5"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+</LinearLayout>
+</ScrollView>

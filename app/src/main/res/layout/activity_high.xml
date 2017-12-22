@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="5dp">
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="দই "
+        android:textSize="20dp"
+        android:id="@+id/button"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView1" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="দুধের পায়েস"
+        android:textSize="20dp"
+        android:id="@+id/button2"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView2" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="আমের শরবত"
+        android:textSize="20dp"
+        android:id="@+id/button3"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"
+        android:layout_gravity="center_horizontal" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView3" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="ঢেঁড়স ভাজি "
+        android:textSize="20dp"
+        android:id="@+id/button4"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"
+        android:layout_gravity="center_horizontal" />
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView4" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="নারকেল পালংশাক ভাজা "
+        android:textSize="20dp"
+        android:id="@+id/button5"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView5" />
+
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="ভেজিটেবল স্যুপ"
+        android:textSize="20dp"
+        android:id="@+id/button6"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView6" />
+    <Button
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:text="কমলার সুপ"
+        android:textSize="20dp"
+        android:id="@+id/button7"
+        android:padding="5dp"
+        android:background="@drawable/sohel_button"
+        android:textColor="#6A1B9A"/>
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="2dp"
+        android:id="@+id/textView7" />
+
+</LinearLayout>
+</ScrollView>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="দুধের পায়েস \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="উপকরণ :"
+            android:textSize="50dp"
+            android:textAlignment="center"
+            android:id="@+id/recipes"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text" />
+
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="	দুধ – দেড় থেকে দুই লিটার
+\n 	পোলাওয়ের চাল – দুই মুঠি
+\n 	চিনি – ৫ কাপ (কিংবা পরিমানমতো, পায়েশ খুব বেশি মিষ্টি হলে ভাল লাগবে না)
+\n 	কিশমিশ – ১৬/১৭ টা
+\n 	দারুচিনি – ৩ টুকরা
+\n 	এলাচ – ২/৩ টা (গোটা অথবা গুঁড়া)
+\n 	তেজপাতা – ২ টা
+\n 	ভাজা চীনাবাদাম অথবা পেস্তাবাদাম – ২ টেবিল চামচ
+\n 	ঘি – ১ টেবিল চামচ
+"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple1"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text1" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="রেসিপি পদ্ধতি : দুধের পায়েস"
+            android:textAlignment="center"
+            android:textSize="25dp"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="প্রস্তুতির শুরুতেই পোলাওর চাল ধুয়ে আধাঘন্টা পানিতে ভিজিয়ে রাখতে হবে (এতে চাল সিদ্ধ হতে সময় কম লাগবে)। এরই মধ্যে দুধটা চুলোয় চাপিয়ে জ্বাল দিন। খেয়াল রাখবেন দুধ যেন গরম হয়ে উপচে না পড়ে। দুধ কিছুক্ষন জ্বাল হয়ে একটু ঘন হয়ে এলে এতে ভিজিয়ে রাখা চাল পানি থেকে তুলে দুধে দিয়ে দিন। ভাল করে নেড়ে দিন। চালসহ দুধ ফুটতে শুরু করবে। চুলার আঁচ একটু কমিয়ে দিয়ে এসময় হালকা হাতে নাড়তে থাকুন। চাল সিদ্ধ হতে থাকবে। মাঝে মাঝে হালকা হাতে নাড়তে হবে, নইলে পাতিলের তলায় লেগে যাবে, পুড়েও যেতে পারে। পুড়ে গেলে পায়েসের স্বাধটাই নষ্ট হয়ে যাবে।
+\n\n দেখবেন এসময়ে পাতিলের তলায় দুধ ঘন হয়ে লেগে যেতে শুরু করেছে, তাই নাড়া বন্ধ করা যাবে না। চাল সিদ্ধ হয়ে এলে এবার চিনি, দারুচিনি, এলাচ, তেজপাতা দিয়ে অল্প আঁচে নাড়তে থাকুন। চিনি একবারে ৫ কাপ না দিয়ে স্বাধ (মিষ্টি) চেখে দেখে যতটা প্রয়োজন ততটা দিতে পারেন। নাড়তে নাড়তে দেখবেন পায়েস ঘন হয়ে খুব সুন্দর ঘ্রাণ বেরিয়েছে। এবার ১ টেবিল চামচ ঘি (অথবা কাঁচা দুধ দিতে পারেন) দিয়ে, ভাল করে নেড়ে মিশিয়ে দিন। নাড়তে থাকুন, আরো মিনিট পাঁচেক চুলায় রেখে নামিয়ে ফেলুন। নামানোর ঠিক আগে কিশমিশ আর এলাচ দিতে হবে। পায়েস তৈরি।
+"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+</LinearLayout>
+</ScrollView>

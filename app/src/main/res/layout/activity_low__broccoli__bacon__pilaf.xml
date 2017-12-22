@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="ব্রকোলি Pilaf \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="উপকরণ :"
+            android:textSize="50dp"
+            android:textAlignment="center"
+            android:id="@+id/recipes"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text" />
+
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="গণমাধ্যমে কাপ চাল
+\n ছোট টুকরা বিভক্ত সেমাই এর গণমাধ্যমে কাপ,
+\n 1 পারেন মাশরুম, undrained
+\n 3 কাপ মুরগির ঝোল, গরম
+\n 1 গণমাধ্যমে কাপ হিমায়িত ব্রোকলি
+\n ¼ কাপ মাখন
+\n 2 টি জলপাই তেল
+\n ¼ কাপ পারমায় তৈয়ারি পনির "
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple1"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text1" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="রেসিপি পদ্ধতি : ব্রকোলি Pilaf"
+            android:textAlignment="center"
+            android:textSize="25dp"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="মাখন এবং দ্রবীভূত করা বড় ধাতুর মধ্যে জলপাই তেল যোগ করুন. গলিত যখন, চাল এবং ভাঙা সেমাই যোগ করুন. বাদামী হওয়া পর্যন্ত আলোড়ন (এটি বার্ন না তাই সাবধানে ঘড়ি). আপনি একটি risotto জন্য যেমন, মন্থন, ধীরে ধীরে মুরগির ঝোল যোগ করুন. ধান মিশ্রণ স্নেহপূর্ণ হয় (মাঝারি তাপ উপর 35 মিনিট) মাশরুম এবং ব্রোকলি মধ্যে যোগ করুন. আবরণ; 5 মিনিট অন্তর চেক, একটি অতিরিক্ত 10 মিনিট গরম. যখন টেন্ডার, 10 মিনিটের জন্য বাষ্প যাক. পারমায় তৈয়ারি পনির সঙ্গে শীর্ষ|"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+
+
+    </LinearLayout>
+</ScrollView>

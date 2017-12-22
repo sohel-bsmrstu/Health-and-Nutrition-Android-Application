@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="দাঁত ব্যথা দূর করার উপায় \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ১ . লবণ পানি\n\n - একেবারে সাধারণ এবং প্রচলিত এই প্রক্রিয়া আসলেই কার্যকর। এক গ্লাস গরম পানিতে বেশি করে লবণ গুলে কুলকুচি করুন যতক্ষণ সম্ভব। দাঁতের ব্যথার কারন হিসেবে যদি কোনও জীবাণু থেকে থাকে তবে তা দূর হবে। এছাড়াও মাড়িতে রক্ত চলাচল ভালো করে দেয় এবং সাময়িকভাবে দাঁত ব্যাথা কমে আসে। তবে এই লবণ পানি খেয়ে ফেলবেন না যেন। কুলকুচি করে ফেলে দেবেন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ২. লবঙ্গ\n\n - যে দাঁতটা ব্যথা করছে, তার ওপরে বা পাশে (যেখানে ব্যাথা) একটা লবঙ্গ রেখে দিন। মাড়ি আর দাঁতের মাঝে বা দুই চোয়ালের মাঝে এই লবঙ্গ চেপে রাখতে পারেন যতক্ষণ না ব্যথা চলে যায়। লবঙ্গের তেল ব্যবহার করতে পারেন তবে দুই-এক ফোঁটার বেশি নয়। লবঙ্গ গুঁড়োর সাথে পানি বা অলিভ অয়েল মিশিয়ে পেস্ট তৈরি করেও লাগাতে পারেন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple3"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView2" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৩. আদা \n\n - এক টুকরো আদা কেটে নিন এবং যে দাঁতে ব্যথা করছে সে দাঁত দিয়ে চিবাতে থাকুন। যদি চিবাতে বেশি ব্যথা লাগে তাহলে অন্য পাশের দাঁত দিয়ে চিবিয়ে যে রস এবং আদার পেস্ট তৈরি হবে সেটা ওই আক্রান্ত দাঁতের কাছে নিয়ে যান। জিহ্বা দিয়ে একটু চেপে রাখুন দাঁতের কাছে। কিছুক্ষণের মাঝেই ব্যথা চলে যাবে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple4"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView3" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৪. রসুন\n\n - এক কোয়া রসুন থেঁতো করে নিয়ে দাঁতের ওপর লাগিয়ে রাখুন। রসুনের সাথে একটু লবণও মিশিয়ে লাগাতে পারেন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple5"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView4" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৫. পেঁয়াজ\n\n - টাটকা এবং রসালো এক টুকরো পেঁয়াজ কেটে নিয়ে সেটা আক্রান্ত দাঁতের ওপর চেপে রাখুন। পেয়াজের রসটা উপকারে আসবে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple6"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView5" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৬. মরিচ\n\n  শুকনো মরিচের গুঁড়ো দিয়ে পেস্ট তৈরি করে দাঁতের ওপরে দিতে পারেন। এক্ষেত্রে মরিচের ভেতরে থাকা উপাদান আপনার দাঁতের ওই ব্যাথাকে অবশ করে দেবে। গোলমরিচের গুঁড়োও ব্যবহার করতে পারেন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple7"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView6" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৭. বেকিং সোডা \n\n - একটা কটন বাড একটু পানিতে ভিজিয়ে নিন। এর মাথায় অনেকটা বেকিং সোডা লাগিয়ে নিয়ে আক্রান্ত দাঁতের ওপরে প্রয়োগ করুন। আরেক ভাবেও বেকিং সোডা ব্যবহার করা যায়। এক চামচ বেকিং সোডা এক গ্লাস গরম পানিতে গুলিয়ে সেটা দিয়ে কুলকুচি করে ফেলুন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple8"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView7" />
+</LinearLayout>
+</ScrollView>

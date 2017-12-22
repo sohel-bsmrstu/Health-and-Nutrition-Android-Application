@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="শিশুদের জন্য পুষ্টি টিপস"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="21dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ১. জিরো থেকে ৩০ দিন বয়স পর্যন্ত শিশুর জন্য–\n\n
+
+-শিশু জন্মের সাথে সাথে ১ ঘণ্টার মধ্যে তাকে মায়ের স্তন চুষতে দিতে হবে।
+
+-মায়ের দুধ ছাড়া শিশুকে পানি,চিনির পানি, মধু,তেল বা অন্য কিছুই দেয়া যাবে না।
+
+-মা ও শিশুর অবস্থান (পজিশন) ঠিক রাখতে হবে ।
+
+(নিচের অবস্থান কে পজিশন বলে)
+
+মা পিঠ হেলান দিয়ে বসেছে।
+এক হাত দিয়ে শিশুর পিঠ ও পাছা ভালোভাবে ধরতে হবে।
+শিশুর শরীর মায়ের দিকে ফেরানো আছে ।
+মায়ের বুকে শিশু ভালোভাবে লেগেছে (এটাচমেন্ট) ঠিক রাখতে হবে ।
+
+( নিচের পদ্ধতিতে বাচ্চাকে কোলে রাখাকে এটাচমেন্ট বলে)
+
+শিশুর নিচের ঠোঁট উল্টানো এবং সে বড় হা করেছে ।
+স্তনের কালো অংশের বেশির ভাগ শিশুর মুখের ভেতর এবং দুধ গেলার শব্দ পাওয়া যাচ্ছে ।
+মায়ের হাত “ C “ মত করে স্তন ধরবেন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ২. ১৮১ দিন থেকে ৮ মাস বয়সী শিশু –করনীয়\n\nপারিবারিক চটকানো খাবার দিতে হবে।
+প্রতিদিন মাছ বা ডিম বা মুরগির কলিজা বা মাংস + ঘন ডাল+ শাক+ হলুদ সবজি ও ফল + তেলে ভাজা খাবার দিতে হবে।
+২৫০ মিলিলিটার বাটির ১/২ বাটি করে দিনে ২ বার ।
+খাবার তৈরির এবং খাওয়ানোর আগে সাবান দিয়ে হাত ধুয়ে নিতে হবে । "
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple3"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView2" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৩. ৯ মাস থেকে ১১ মাস পূর্ণ বয়সের শিশুর জন্য-.\n\n সময় নিয়ে শিশুকে নিজে নিজে খেতে শিখানো।
+প্রতিদিন মাছ বা ডিম বা মুরগির কলিজা বা মাংস + ঘন ডাল+ শাক+ হলুদ সবজি ও ফল + তেলে ভাজা খাবার দিতে হবে।
+২৫০ মিলিলিটার বাটির ১/২ বাটি করে দিনে ৩ বার এবং ১-২ বার পুষ্টিকর নাস্তা দিতে হবে ।
+খাবার তৈরির এবং খাওয়ানোর আগে সাবান দিয়ে হাত ধুয়ে নিতে হবে ।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple4"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView3" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="টিপস 8. ১২ থেকে ২৩ মাস পূর্ণ বয়সী শিশুর জন্য-.\n\nশিশুকে নিজে নিজে খেতে উৎসাহ দিতে হবে ।
+প্রতিদিন মাছ বা ডিম বা মুরগির কলিজা বা মাংস + ঘন ডাল+ শাক+ হলুদ সবজি ও ফল + তেলে ভাজা খাবার দিতে হবে।
+২৫০ মিলিলিটার বাটির ১ বাটি করে দিনে ৩ বার এবং ১-২ বার পুষ্টিকর নাস্তা দিতে হবে ।
+খাবার তৈরির এবং খাওয়ানোর আগে সাবান দিয়ে হাত ধুয়ে নিতে হবে ।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple5"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView4" />
+    </LinearLayout>
+    </ScrollView>

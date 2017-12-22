@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="ওজন কমানোর  উপায় \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ১ . পানি পান করুন \n\n পর্যাপ্ত পরিমাণ পানি পান করলে শরীর আর্দ্র থাকে, এতে আপনার পেট ভরা এমন ভাবও তৈরি হবে। ক্ষুধাও কম লাগবে, এ কারণে আপনি কম খাবেন, ধীরে ধীরে ওজনও কমবে তাতে। দিনে অন্তত ১০ থেকে ১২ গ্লাস পানি পান করুন। "
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ২. চিনি ও শর্করা থেকে দূরে\n\n চিনি বা মিষ্টিজাতীয় খাবার থেকে ১৫ দিন অন্তত দূরে থাকুন। পাশাপাশি শর্করাজাতীয় খাবার কম খান। ভাত, রুটি কম খান। এসব খাবার কম খেলে ওজন দ্রুত কমবে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple3"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView2" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৩. প্রোটিনসমৃদ্ধ খাবার খান\n\n প্রোটিনসমৃদ্ধ খাবার খাদ্যতালিকায় রাখুন। এতে পেশি স্বাস্থ্যকর হবে। প্রোটিন খাবার বাদ দিলে শরীরে এর বাজে প্রভাব পড়বে। ডিম, দুধ, মুরগির মাংস, ডাল খাদ্যতালিকায় রাখুন। তবে লাল মাংস (গরু, খাসি) এড়িয়ে চলুন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple4"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView3" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৪. সবজি খান বেশি বেশি \n\n খুব সহজ কথা। সবজি খেলে ওজন কমে। হ্যাঁ, তাই থালায় বেশি বেশি সবজি রাখুন। সবজির মধ্যে রয়েছে পুষ্টি ও অ্যান্টিঅক্সিডেন্ট। এগুলো শরীর ভালো রাখতে সাহায্য করে। "
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple5"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView4" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৫. ক্যালরি গ্রহণ \n\n আপনার শরীরের জন্য কতটুকু ক্যালরি দরকার, সে অনুযায়ী ক্যালরিসমৃদ্ধ খাবার খান। প্রয়োজনে বিশেষজ্ঞের পরামর্শ নিন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple6"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView5" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৬. খাবার বাদ দেবেন না \n\n না খেয়ে কিন্তু ওজন কমানো যায় না। তাই কোনো বেলার খাবারকে বাদ দেওয়া যাবে না। দিনে অন্তত ছয়বার খান। তিনবেলা বড় খাবার ও তিনবেলা ছোট খাবার—এভাবে খাবারকে ভাগ করুন। একেবারে খুব বেশি না খেয়ে অল্প পরিমাণ খাবার খান।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple7"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView6" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৭. ফাস্টফুডকে না বলুন \n\n প্রক্রিয়াজাত খাবার, ফাস্টফুড, কোমল পানীয়, সোডা—এই খাবারগুলোকে একেবারে না বলুন। এগুলোর মধ্যে উচ্চ পরিমাণ ক্যালরি থাকে, এতে ওজন বাড়ে। "
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple8"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView7" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৮. হাঁটুন\n\n ওজন কমাতে হাঁটার কোনো বিকল্প নেই। আর হাঁটা তো কেবল ওজনই কমাবে না, কমাবে হৃদরোগের ঝুঁকিও। বিষণ্ণতা বা মন খারাপ ভাবও কমে যাবে অনেক। "
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple9"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView8" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৯. একটু কম খান \n\n আগে যেখানে হয়তো তিনটি রুটি খেতেন, সেখানে একটি রুটি খান বা যেখানে এক থালা ভাত খেতেন, সেখানে এক কাপ ভাত খান। এর বদলে পেট ভরুন সবজি আর ফল দিয়ে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple10"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView9" />
+    </LinearLayout>
+</ScrollView>

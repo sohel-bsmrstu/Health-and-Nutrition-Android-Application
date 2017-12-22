@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="নারিকেল দুধে হাঁসের মাংস \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="উপকরণ :"
+            android:textSize="50dp"
+            android:textAlignment="center"
+            android:id="@+id/recipes"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text" />
+
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="হাঁস ২টি, নারিকেল বাটা ২ কাপ, আদা বাটা ২ চা চামচ, রসুন বাটা ১ টেবিল চামচ, জিরাগুঁড়ো ১ চা চামচ, পেঁয়াজ কুচি ১ কাপ, পোস্ত বাটা আধা চা চামচ, মরিচ গুঁড়ো ১ চা চামচ, গরম মসলা গুঁড়ো ১ চা চামচ, তেল আধা কাপ, তেজপাতা ৩টি, লবণ ১ চা চামচ, হলুদগুঁড়ো আধা চা চামচ, চিনি আধা চা চামচ, ঘি ১ টেবিল চামচ।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple1"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text1" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="রেসিপি পদ্ধতি : নারিকেল দুধে হাঁসের মাংস"
+            android:textAlignment="center"
+            android:textSize="25dp"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="১. মাংস মাঝারি ধরনের টুকরো করে ধুয়ে পানি ঝরিয়ে লবণ ও মরিচ দিয়ে মাখিয়ে রাখুন।
+\n\n ২. তেল গরম হলে পেঁয়াজ বাদামি করে ভেজে তেজপাতা ও সব মসলা দিয়ে কিছুক্ষণ কষান।
+\n\n ৩. নারিকেল বেটে গরম পানিতে দুধ করে নিন। মাংসের পানি শুকিয়ে তেল ওপরে উঠলে নারিকেল দুধ দিন।
+\n\n ৪. ঢেকে মাঝারি আঁচে রান্না করুন। মাংস সিদ্ধ হয়ে ঝোলমাখা হলে জিরাগুঁড়ো ও ঘি দিয়ে নামিয়ে ফেলুন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+    </LinearLayout>
+    </ScrollView>

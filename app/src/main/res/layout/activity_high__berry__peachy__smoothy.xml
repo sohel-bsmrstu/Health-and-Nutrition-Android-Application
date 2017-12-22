@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text=" দই \n"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="23dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="উপকরণ :"
+            android:textSize="50dp"
+            android:textAlignment="center"
+            android:id="@+id/recipes"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text" />
+
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="দুধ – ১ লিটার, চিনি – আপনার রুচি অনুযায়ী, পুরনো দই (টক বা মিষ্টি) – ৩ টেবিল চামচ, পাউডার দুধ – ২/৩ টেবিল চামচ।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple1"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/text1" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="রেসিপি পদ্ধতি :  দই"
+            android:textAlignment="center"
+            android:textSize="25dp"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#C62828"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="প্রথমে দুধ ও পাউডার দুধ প্যানে নিয়ে অল্প আঁচে জ্বাল দিতে থাকুন।বলক আসলে চিনি দিয়ে দিন ( চিনি যখন দিবেন তথনই ক্যারামেল দিবেন, যারা ক্যারামেল দিতে ইচ্ছুক, ক্যারামেলের কথা কেন বললাম তা জানার জন্য রেসিপি পুরোটা ভালো করে পড়তে হবে) আপনার ইচ্ছানুযায়ী, মাঝে মাঝে চামচ দিয়ে নাড়তে হবে, নইলে দুধ পাতিলের নিচে জমা হয়ে পুড়ে যেতে পারে। দুধ হাফ লিটার হলে চুলা থেকে নামিয়ে দুধকে ঠাণ্ডা হতে দিন।দু্ধ পুরো ঠাণ্ডা হবার আগে আঙ্গুল দিয়ে পরখ করে দেখুন। কুসুম গরম থাকা অবস্থায়( যে গরম আঙ্গুল সহ্য করতে পারে) ওতে পুরনো দই মিক্স করুন। ভালোভাবে মিশাতে হবে হ্যান্ড বিটার বা কাটা চামচ দিয়ে,মিক্স করার সময় খেয়াল রাখতে হবে যেন ফেনা বেশি না উঠে যায়। এবার যে পাত্রে দই বানাবেন তাতে আপনার দইয়ের মিশ্রণটি ঢেলে দিয়ে ঢাকনা দিয়ে ঢেকে রাখুন। মোটা টাওয়াল/কাপড় গরম করে ৮/১০ ঘণ্টা দই ঢেকে রাখুন। ৮/১০ ঘণ্টা পর দই জমে গেলে ফ্রিজে রাখুন,খুব ঠাণ্ডা করে পরিবেশন করুন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+</LinearLayout>
+</ScrollView>

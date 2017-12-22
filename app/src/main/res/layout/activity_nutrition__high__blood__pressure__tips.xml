@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="উচ্চ রক্তচাপ রোগীদের জন্য পুষ্টি টিপস"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="21dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ১. টক দই খান\n\n আমেরিকার ইউনিভার্সিটি অফ মিনোসোটার গবেষকদের মতে প্রতিদিন মাত্র এক কাপ করে টক দই খেলে উচ্চ রক্ত চাপ প্রায় এক তৃতীয়াংশ কমে যায় এবং স্বাভাবিক হয়ে আসে। গবেষকদের মতে দই খেলে রক্ত চাপ ও রক্তের খারাপ কোলেস্টেরলের মাত্রা কমে। গবেষণায় দেখা গেছে যে যারা প্রায় ১৫ বছর ধরে প্রতিদিন ১২০ গ্রাম টক দই খায় তাদের উচ্চ রক্তচাপের ঝুঁকি প্রায় ৩১% কমে যায় অন্যদের তুলনায়।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ২. সপ্তাহে একদিন জগিং করুন\n\n সপ্তাহে অন্তত একদিন মাত্র এক ঘন্টা করে জগিং করলে ৬ বছর আয়ু বৃদ্ধির সম্ভাবনা থাকে। কোপেনহেগেন সিটি হার্ট কার্ডোভাসক্যুলার স্টাডিতে ২৩ থেকে ৯৩ বছর বয়সী ২০,০০০ পুরুষ ও মহিলার উপর গবেষণা করে এই তথ্য পাওয়া গেছে। গবেষকদের মতে জগিং হৃদপিন্ডের রক্ত সঞ্চালন বাড়িয়ে দেয় এবং হৃদপিন্ডকে শক্তিশালী করে। রক্ত চাপ কমিয়ে স্ট্রোকের ঝুঁকি কমানোর পাশাপাশি শরীরকে সতেজ ও সুস্থ রাখে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৩. লবণ খাওয়া কমান\n\n লবণ খেলে রক্তনালীর রক্তের ঘনত্ব ও চাপ বেড়ে যায়। ফলে রক্ত চাপ বেড়ে যায়। তবে শুধুমাত্র লবণ নয় প্রক্রিয়াজাত খাবার খেলেও রক্ত চাপ বাড়ে। ব্লাড প্রেশার অ্যাসোসিয়েশনের মতে সল্টেড বিস্কুট, সকালের নাস্তার সেরেল ও রেডিমেড মোড়কজাত খাবারে প্রাত্যহিক আমরা যা লবণ গ্রহণ করি তার ৮০% থাকে। তাই প্রতিদিন খাবারের সাথে লবণ খাওয়ার পরিমাণ কমিয়ে দিন। আর ভাতের সাথে অতিরিক্ত লবণ খাওয়ার অভ্যাস পরিত্যাগ করুন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple3"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView2" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৪. ওজন কমান\n\n গবেষনায় দেখা গেছে যে মাত্র কয়েক কেজি ওজন কমালেও তার ইতিবাচক প্রভাব রক্তচাপের উপর পড়ে। ওজন বাড়লে হৃৎপিণ্ডের স্বাভাবিক কার্যক্রম ব্যহত হয় এবং রক্তচাপ বেড়ে যায়। তাই সব সময় চেষ্টা করুন ওজন নিয়ন্ত্রণে রাখতে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple4"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView3" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৫. ধূমপান ত্যাগ করুন\n\n ধূমপান করলে শরীরে নিকোটিনের প্রভাবে অ্যাড্রেনালিন উৎপন্ন হয়। ফলে হৃৎপিণ্ডের স্পন্দন বেড়ে যায় এবং রক্তচাপ বৃদ্ধি পায়।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple5"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView4" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৬. কলা খান\n\n বৃটিশ মেডিকেল জার্নালের সাম্প্রতিক একটি গবেষণায় দেখে গেছে যে পটাশিয়াম সমৃদ্ধ খাবার যেমন কলা খেলে লবণ খাওয়ার প্রবণতা কমে যায়। ফলে নিয়মিত কলা খেলে প্রতিবছর হাজার হাজার জীবন বাঁচানো সম্ভব। কলা খেলে শরীরে প্রয়োজনীয় পটাসিয়ামের অভাব পূরণ হয় এবং শরীরের ফ্লুইডের সমতা রক্ষা হয়। ফলে রক্তচাপ নিয়ন্ত্রণে থাকে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple6"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView5" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৭. কম কাজ করুন\n\n ইউনিভার্সিটি অফ ক্যালিফোর্নিয়ার একটি গবেষণা অনুযায়ী প্রতি সপ্তাহে ৪০ ঘন্টার বেশি অফিসের কাজ করলে হাইপারটেনশনের সম্ভাবনা ১৪% বেড়ে যায়। ওভারটাইম কাজ করলে এই ঝুঁকি আরো বেড়ে যায়। যারা সপ্তাহে ৫১ ঘন্টা কাজ করে তাদের উচ্চরক্তচাপের সম্ভাবনা অন্যদের তুলনায় ২৯% বেশি। অফিসে অতিরিক্ত কাজ করলে সারাদিন বসে থাকা হয় এবং ব্যায়ামের সময় পাওয়া যায় না। তাছাড়াও মনের উপর চাপ পড়ে এবং অস্বাস্থ্যকর খাবার খাওয়া হয়ে থাকে। তাই অফিসকে অতিরিক্ত সময় না দিয়ে নিজের বিশ্রামের জন্য কিছু সময় রাখুন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple7"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView6" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৮. অতিরিক্ত চা কফি কমান\n\n আমেরিকার উত্তর ক্যারোলিনার ডিউক ইউনিভার্সিটি অফ মেডিকেল সেন্টারের মতে ৫০০ মিলিগ্রামের অর্থাৎ প্রায় ৩ কাপ চা/কফি খায় তাদের ব্লাড প্রেশার ৩ পয়েন্ট বেড়ে যায়। এই প্রভাব রাতে ঘুমানোর আগ পর্যন্ত থাকে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple8"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView7" />
+
+</LinearLayout>
+</ScrollView>

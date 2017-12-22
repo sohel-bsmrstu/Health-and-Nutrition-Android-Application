@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="সহজ পুষ্টি টিপস"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="21dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ১ . সবজিতেই স্বস্তি\n\n দীর্ঘায়ুর জন্য অনেককেই সবজির দিকে ঝুঁকতে দেখা যায়। প্রাণিজ আমিষ দ্রুত জীবনী শক্তি কমিয়ে দেয় বলে অনেকের ধারণা। আসলে সবজিতে আছে পটাসিয়াম, ফাইবার, ফলিক এসিড, ভিটামিন এ, ভিটামিন ই ও ভিটামিন সি। এ সব উপাদান রক্তে কোলস্টেরল কমায়, রক্তচাপ নিয়ন্ত্রণে রাখে ও লোহিত কণিকা উৎপাদনে সহায়তা করে। এ ছাড়া স্ট্রোক, ক্যান্সার, হৃদরোগ ও টাইপ-২ ডায়বেটিকসের মতো প্রাণঘাতী রোগ থেকে বাঁচতে প্রতিদিনের খাদ্য তালিকায় পর্যাপ্ত সবজির বিকল্প নেই।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ২. শক্তির উৎস প্রোটিন\n\n শরীরকে কর্মক্ষম রাখতে প্রয়োজনীয় কোষ-কলার গঠন ও বিকাশের অন্যতম উপাদান প্রোটিন। পাশাপাশি এনজাইম, হরমোন, হাড়, পেশী, তরুণাস্থি, ত্বক ও রক্ত তৈরিতেও প্রোটিনের গুরুত্বপূর্ণ ভূমিকা রয়েছে। পর্যাপ্ত প্রোটিন পেতে তাই প্রতিদিনের খাদ্য তালিকায় রাখুন দানা জাতীয় খাবার, সামুদ্রিক মাছ, মাংস ও সয়াবিন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৩. প্রয়োজন শস্যজাতীয় খাদ্য\n\n শস্যজাতীয় খাদ্যে আছে আঁশ, ফলিক এসিড, ভিটামিন বি এবং লৌহ ও ম্যাগনেসিয়ামের মতো খনিজ উপাদান। পর্যাপ্ত পরিমাণে শস্যজাতীয় খাদ্যগ্রহণ দুরারোগ্য বিভিন্ন রোগ বৃদ্ধির ঝুঁকি কমায়। তাই নিরোগ থাকতে প্রতিদিনের খাদ্য তালিকায় শস্যজাতীয় খাদ্য রাখা প্রয়োজন।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple3"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView2" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৪. ফলাহারেই ফিট\n\n সুস্থ থাকতে প্রতিদিনের খাদ্য তালিকায় রাখুন তাজা ফল। ফলের রসের পরিবর্তে আস্ত ফলটিই খান। ফলে আছে উচ্চমাত্রায় ভিটামিন সি, ভিটামিন এ ও অন্যান্য খনিজ উপাদান। পটাসিয়াম, ফাইবার ও ফলিক এসিড। প্রতিদিন ফল খেলে কমে হৃদরোগের ঝুঁকি। এ ছাড়া পটাশিয়াম সমৃদ্ধ খাবার কিডনিতে পাথর হওয়া ও হাড় ক্ষয় প্রতিরোধ করে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple4"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView3" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৫. আদর্শ খাদ্য দুধ\n\n দুধকে বলা হয় আদর্শ খাদ্য। প্রায় সব ধরনের খাদ্য উপাদানে ভরপুর দুধ ও দুগ্ধজাত খাবার। দুধে আছে ক্যালসিয়াম, ম্যাগনেসিয়াম, ফসফরাস, প্রোটিন, ভিটামিন এ, ভিটামিন বি ১২, ভিটামিন সি, জিঙ্ক, ফলিক এসিড, রিবোফ্লাবিন ও আয়োডিন। হাড় ও দাঁতের গঠন, প্রখর দৃষ্টিশক্তি, কোষ-কলার সঠিক বৃদ্ধি, সুন্দর ত্বক ও হজমে সহায়তা করে দুধ।
+তাই সুস্থ ও নিরোগ শরীর পেতে প্রতিদিনের খাদ্য তালিকায় রাখুন এই পাঁচ ধরনের খাবার। সকাল, দুপুর ও রাতে ভারি খাওয়ার পাশাপাশি দুইবার অন্তত হালকা নাস্তা করুন। এ ছাড়া প্রতিদিন অন্তত ৩০ মিনিট ব্যায়ামের জন্য ব্যয় করলে সুস্থ ও ফিট শরীর আপনার সমার্থক হয়ে উঠবে।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple5"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+</LinearLayout>
+</ScrollView>

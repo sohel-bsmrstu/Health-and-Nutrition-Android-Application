@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/scrollView"
+    android:layout_gravity="center_horizontal"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp">
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="70dp"
+            android:text="শীতকালীন স্বাস্থ্য টিপস"
+            android:textAlignment="center"
+            android:background="#9C27B0"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/simple12"
+            android:textSize="21dp"
+            android:textColor="#00BCD4"
+            android:padding="10dp" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="12dp"
+            android:id="@+id/textView11" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ১. গোসল: \n\n
+শীত এলে অনেকের অনিয়মিত হয়ে পড়ে।
+এটা মোটেও ঠিক নয়। স্বাভাবিক ত্বক
+ধরে রাখার জন্য গোসলটা নিয়মিতই
+চালিয়ে যেতে হবে। অনেকে আবার
+অনেকে গরম পানি দিয়ে গোসল করেন।
+ঠান্ডা পানি দিয়ে গোসল করলে অসুস্থ
+হয়ে যাওয়ার ভয়ে কিংবা কিছুটা আরাম
+পাওয়ার জন্যই গরম
+পানি দিয়ে চলে গোসলের এই পর্ব। কিন্তু
+আপনি কী জানেন যে হালকা গরমের
+বদলে বেশি গরম পানি দিয়ে গোসল
+করলে কিংবা হাত মুখ ধুলে ত্বক
+আরো বেশি শুষ্ক হয়ে যায়? কুসুম গরম
+পানি দিয়ে গোসলের বদলে পানির
+তাপমাত্রা যদি বেশি থাকে তাহলে ত্বক
+নিজস্ব তেল হারায় এবং শুষ্ক হয়ে ওঠে।
+কুসুম গরম পানি দিয়েও ৫ থেকে ১০
+মিনিটের বেশি সময় ধরে গোসল করা ত্বকের জন্য ক্ষতিকর।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/winter"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ২. পরিচ্ছন্নতা:\n\n
+শীত এলেই ত্বক পরিষ্কার করতে শুরু হয়
+আলসেমি।
+শীতে পানি ঠান্ডা থাকে বলে অনেকেই
+আলসেমি করে মুখ না ধুয়েই ঘুমিয়ে পড়েন।
+ত্বকের যত্নে এই অবহেলার কারণে ব্রণের
+উপদ্রব
+বেড়ে যেতে পারে এবং জমে থাকা মরা চামড়ার
+কারণে ত্বক রুক্ষ ও অনুজ্জ্বল হয়ে যায়। তাই
+শীতকালেও প্রতিদিন
+রাতে ঘুমাতে যাওয়ার আগে ত্বক
+ভালো করে পরিষ্কার করুন
+এবং মাঝে মাঝে স্ক্রাবিং করুন।
+তাহলে ত্বকের মরা চামড়া পরিষ্কার
+হয়ে ত্বক থাকবে কোমল ও মসৃণ।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/winter2"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView1" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৩. শীতের রোদ:\n\n
+অনেকেই ভাবেন শীতের রোদ
+তো ক্ষতিকর নয়! শীত কালের রোদে বেশ
+আরামের অনুভূতি হয় তাই অনেকেই এই
+সময়ে প্রচুর রোদ লাগিয়ে থাকেন শরীরে।
+কিন্তু শীতের রোদ আর গরম কালের রোদ
+মূলত সমান ক্ষতিকর। কারণ সূর্যের
+ক্ষতিকর অতি বেগুনী রশ্মি সব সময়েই
+ত্বকের ক্ষতি করে এবং ত্বককে রুক্ষ ও
+কালো করে দেয়। তাই রোদ
+থেকে রক্ষা পেতে শীতেও ব্যবহার করুন
+সানস্ক্রিন ও ছাতা। রোদে বাইরে বের
+হলে চোখে ব্যবহার করুন সানগ্লাস।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/winter3"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView2" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৪.পানি পান:\n\n
+শীত এলে অনেকেই
+পানি খাওয়া কমিয়ে দিয়ে থাকেন।
+শীতে ত্বক তার স্বাভাবিক
+আদ্রর্তা হারিয়ে রুক্ষ হয়ে ওঠে। তাই
+শীতে পানি খাওয়ার পরিমাণ
+উলটো আরও বাড়িয়ে দেয়া উচিত যেন
+ত্বকের আদ্রর্তা বজায় রাখা যায়।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/winter4"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView3" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৫. সবজী খাওয়া:\n\n
+শীতে ত্বককে মসৃণ ও উজ্জ্বল রাখতে প্রচুর
+শাক সবজি ও ফলের রস খাওয়ারও
+কোনো বিকল্প নেই।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/winter5"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView4" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৬.শীতের ফেস প্যাক:\n\n
+শীতে ফেস প্যাকে কিছুটা পরিবর্তন
+নিয়ে আসুন। সাধারনত আমরা গরম
+কালে যেই ফেসপ্যাক গুলো ব্যবহার
+করি সেগুলো ত্বক কিছুটা শুষ্ক
+করে ফেলে শীতের সময়ে। তাই ফেস
+প্যাকে গোলাপ জল কিংবা পানির
+বদলে ব্যবহার করুন দুধ, মধু কিংবা অলিভ
+ওয়েল। তাহলে ত্বক থাকবে মসৃন ও উজ্জ্বল।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/winter6"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView5" />
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="টিপস ৭.ময়েশ্চারাইজা:\n\n র
+শীতের সময় ত্বকের বাড়তি সুরক্ষার জন্য
+ভালো ময়েশ্চারাইজার ব্যবহার অত্যন্ত
+জরুরী। নামী দামী কোম্পানির ক্রিম,
+লোশন ইত্যাদি ব্যবহার তো করতেই
+পারেন। সেই সাথে ব্যবহার করতে পারেন
+গ্লিসারিনও। সম পরিমান গ্লিসারিন ও
+গোলাপ জল একত্রে মিশিয়ে ব্যবহার
+করতে পারেন আপনার নিজস্ব
+ময়েশ্চারাইজার হিসাবে।
+এতে মেশাতে পারে কয়েক
+ফোঁটা এসেনশিয়াল অয়েল
+কিংবা আপনার পছন্দের কোনো সৌরভ।"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:id="@+id/winter7"
+            android:background="#00BCD4"
+            android:textColor="#FFFFFF"
+            android:padding="10dp" />
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="8dp"
+            android:id="@+id/textView6" />
+
+    </LinearLayout>
+</ScrollView>
